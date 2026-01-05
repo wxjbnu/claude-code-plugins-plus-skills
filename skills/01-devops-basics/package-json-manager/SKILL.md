@@ -1,13 +1,13 @@
 ---
-name: package-json-manager
+name: "package-json-manager"
 description: |
   Package Json Manager - Auto-activating skill for DevOps Basics.
   Triggers on: package json manager, package json manager
-  Part of the DevOps Basics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Basics skill category. Use when working with package json manager functionality. Trigger with phrases like "package json manager", "package manager", "package".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Package Json Manager

@@ -1,12 +1,12 @@
 ---
-name: cursor-keybindings
+name: "cursor-keybindings"
 description: |
   Master Cursor keyboard shortcuts and customize keybindings. Triggers on "cursor shortcuts",
-  "cursor keybindings", "cursor keyboard", "cursor hotkeys", "cursor commands".
-allowed-tools: Read, Write, Edit, Bash
+  "cursor keybindings", "cursor keyboard", "cursor hotkeys", "cursor commands". Use when working with cursor keybindings functionality. Trigger with phrases like "cursor keybindings", "cursor keybindings", "cursor".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Cursor Keybindings & Shortcuts

@@ -1,13 +1,13 @@
 ---
-name: okr-tracker-creator
+name: "okr-tracker-creator"
 description: |
   Okr Tracker Creator - Auto-activating skill for Enterprise Workflows.
   Triggers on: okr tracker creator, okr tracker creator
-  Part of the Enterprise Workflows skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Enterprise Workflows skill category. Use when working with okr tracker creator functionality. Trigger with phrases like "okr tracker creator", "okr creator", "okr".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Okr Tracker Creator

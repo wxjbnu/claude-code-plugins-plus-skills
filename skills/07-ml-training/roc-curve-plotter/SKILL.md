@@ -1,13 +1,13 @@
 ---
-name: roc-curve-plotter
+name: "roc-curve-plotter"
 description: |
   Roc Curve Plotter - Auto-activating skill for ML Training.
   Triggers on: roc curve plotter, roc curve plotter
-  Part of the ML Training skill category.
-allowed-tools: Read, Write, Edit, Bash(python:*), Bash(pip:*)
+  Part of the ML Training skill category. Use when working with roc curve plotter functionality. Trigger with phrases like "roc curve plotter", "roc plotter", "roc".
+allowed-tools: "Read, Write, Edit, Bash(python:*), Bash(pip:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Roc Curve Plotter

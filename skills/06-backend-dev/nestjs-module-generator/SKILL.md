@@ -1,13 +1,13 @@
 ---
-name: nestjs-module-generator
+name: "nestjs-module-generator"
 description: |
   Nestjs Module Generator - Auto-activating skill for Backend Development.
   Triggers on: nestjs module generator, nestjs module generator
-  Part of the Backend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Backend Development skill category. Use when working with nestjs module generator functionality. Trigger with phrases like "nestjs module generator", "nestjs generator", "nestjs".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Nestjs Module Generator

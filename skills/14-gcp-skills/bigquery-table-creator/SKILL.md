@@ -1,13 +1,13 @@
 ---
-name: bigquery-table-creator
+name: "bigquery-table-creator"
 description: |
   Bigquery Table Creator - Auto-activating skill for GCP Skills.
   Triggers on: bigquery table creator, bigquery table creator
-  Part of the GCP Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(gcloud:*)
+  Part of the GCP Skills skill category. Use when working with bigquery table creator functionality. Trigger with phrases like "bigquery table creator", "bigquery creator", "bigquery".
+allowed-tools: "Read, Write, Edit, Bash(gcloud:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Bigquery Table Creator

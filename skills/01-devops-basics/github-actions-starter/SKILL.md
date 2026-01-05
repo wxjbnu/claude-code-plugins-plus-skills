@@ -1,13 +1,13 @@
 ---
-name: github-actions-starter
+name: "github-actions-starter"
 description: |
   Github Actions Starter - Auto-activating skill for DevOps Basics.
   Triggers on: github actions starter, github actions starter
-  Part of the DevOps Basics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Basics skill category. Use when working with github actions starter functionality. Trigger with phrases like "github actions starter", "github starter", "github".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Github Actions Starter

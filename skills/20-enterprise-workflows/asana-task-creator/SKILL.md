@@ -1,13 +1,13 @@
 ---
-name: asana-task-creator
+name: "asana-task-creator"
 description: |
   Asana Task Creator - Auto-activating skill for Enterprise Workflows.
   Triggers on: asana task creator, asana task creator
-  Part of the Enterprise Workflows skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Enterprise Workflows skill category. Use when working with asana task creator functionality. Trigger with phrases like "asana task creator", "asana creator", "asana".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Asana Task Creator

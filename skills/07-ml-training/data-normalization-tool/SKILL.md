@@ -1,13 +1,13 @@
 ---
-name: data-normalization-tool
+name: "data-normalization-tool"
 description: |
   Data Normalization Tool - Auto-activating skill for ML Training.
   Triggers on: data normalization tool, data normalization tool
-  Part of the ML Training skill category.
-allowed-tools: Read, Write, Edit, Bash(python:*), Bash(pip:*)
+  Part of the ML Training skill category. Use when working with data normalization tool functionality. Trigger with phrases like "data normalization tool", "data tool", "data".
+allowed-tools: "Read, Write, Edit, Bash(python:*), Bash(pip:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Data Normalization Tool

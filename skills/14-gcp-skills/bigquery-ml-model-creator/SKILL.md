@@ -1,13 +1,13 @@
 ---
-name: bigquery-ml-model-creator
+name: "bigquery-ml-model-creator"
 description: |
   Bigquery Ml Model Creator - Auto-activating skill for GCP Skills.
   Triggers on: bigquery ml model creator, bigquery ml model creator
-  Part of the GCP Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(gcloud:*)
+  Part of the GCP Skills skill category. Use when working with bigquery ml model creator functionality. Trigger with phrases like "bigquery ml model creator", "bigquery creator", "bigquery".
+allowed-tools: "Read, Write, Edit, Bash(gcloud:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Bigquery Ml Model Creator

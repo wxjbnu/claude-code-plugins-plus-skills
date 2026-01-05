@@ -1,13 +1,13 @@
 ---
-name: aria-attribute-helper
+name: "aria-attribute-helper"
 description: |
   Aria Attribute Helper - Auto-activating skill for Frontend Development.
   Triggers on: aria attribute helper, aria attribute helper
-  Part of the Frontend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Frontend Development skill category. Use when working with aria attribute helper functionality. Trigger with phrases like "aria attribute helper", "aria helper", "aria".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Aria Attribute Helper

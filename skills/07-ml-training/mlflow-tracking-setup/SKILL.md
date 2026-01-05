@@ -1,13 +1,13 @@
 ---
-name: mlflow-tracking-setup
+name: "mlflow-tracking-setup"
 description: |
   Mlflow Tracking Setup - Auto-activating skill for ML Training.
   Triggers on: mlflow tracking setup, mlflow tracking setup
-  Part of the ML Training skill category.
-allowed-tools: Read, Write, Edit, Bash(python:*), Bash(pip:*)
+  Part of the ML Training skill category. Use when working with mlflow tracking setup functionality. Trigger with phrases like "mlflow tracking setup", "mlflow setup", "mlflow".
+allowed-tools: "Read, Write, Edit, Bash(python:*), Bash(pip:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Mlflow Tracking Setup

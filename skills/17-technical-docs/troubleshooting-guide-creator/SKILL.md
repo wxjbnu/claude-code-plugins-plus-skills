@@ -1,13 +1,13 @@
 ---
-name: troubleshooting-guide-creator
+name: "troubleshooting-guide-creator"
 description: |
   Troubleshooting Guide Creator - Auto-activating skill for Technical Documentation.
   Triggers on: troubleshooting guide creator, troubleshooting guide creator
-  Part of the Technical Documentation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Technical Documentation skill category. Use when working with troubleshooting guide creator functionality. Trigger with phrases like "troubleshooting guide creator", "troubleshooting creator", "troubleshooting".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Troubleshooting Guide Creator

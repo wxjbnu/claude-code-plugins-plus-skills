@@ -1,13 +1,13 @@
 ---
-name: graphql-subscription-setup
+name: "graphql-subscription-setup"
 description: |
   Graphql Subscription Setup - Auto-activating skill for API Development.
   Triggers on: graphql subscription setup, graphql subscription setup
-  Part of the API Development skill category.
-allowed-tools: Read, Write, Edit, Bash(curl:*), Grep
+  Part of the API Development skill category. Use when working with graphql subscription setup functionality. Trigger with phrases like "graphql subscription setup", "graphql setup", "graphql".
+allowed-tools: "Read, Write, Edit, Bash(curl:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Graphql Subscription Setup

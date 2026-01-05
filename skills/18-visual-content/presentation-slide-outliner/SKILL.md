@@ -1,13 +1,13 @@
 ---
-name: presentation-slide-outliner
+name: "presentation-slide-outliner"
 description: |
   Presentation Slide Outliner - Auto-activating skill for Visual Content.
   Triggers on: presentation slide outliner, presentation slide outliner
-  Part of the Visual Content skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Visual Content skill category. Use when working with presentation slide outliner functionality. Trigger with phrases like "presentation slide outliner", "presentation outliner", "presentation".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Presentation Slide Outliner

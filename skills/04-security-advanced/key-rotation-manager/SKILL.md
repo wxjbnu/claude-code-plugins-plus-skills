@@ -1,13 +1,13 @@
 ---
-name: key-rotation-manager
+name: "key-rotation-manager"
 description: |
   Key Rotation Manager - Auto-activating skill for Security Advanced.
   Triggers on: key rotation manager, key rotation manager
-  Part of the Security Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Security Advanced skill category. Use when working with key rotation manager functionality. Trigger with phrases like "key rotation manager", "key manager", "key".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Key Rotation Manager

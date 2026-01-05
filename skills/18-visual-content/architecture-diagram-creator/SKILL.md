@@ -1,13 +1,13 @@
 ---
-name: architecture-diagram-creator
+name: "architecture-diagram-creator"
 description: |
   Architecture Diagram Creator - Auto-activating skill for Visual Content.
   Triggers on: architecture diagram creator, architecture diagram creator
-  Part of the Visual Content skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Visual Content skill category. Use when working with architecture diagram creator functionality. Trigger with phrases like "architecture diagram creator", "architecture creator", "architecture".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Architecture Diagram Creator

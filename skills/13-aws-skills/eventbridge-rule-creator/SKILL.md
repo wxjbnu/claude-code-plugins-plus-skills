@@ -1,13 +1,13 @@
 ---
-name: eventbridge-rule-creator
+name: "eventbridge-rule-creator"
 description: |
   Eventbridge Rule Creator - Auto-activating skill for AWS Skills.
   Triggers on: eventbridge rule creator, eventbridge rule creator
-  Part of the AWS Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(aws:*)
+  Part of the AWS Skills skill category. Use when working with eventbridge rule creator functionality. Trigger with phrases like "eventbridge rule creator", "eventbridge creator", "eventbridge".
+allowed-tools: "Read, Write, Edit, Bash(aws:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Eventbridge Rule Creator

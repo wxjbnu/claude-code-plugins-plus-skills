@@ -1,13 +1,13 @@
 ---
-name: calendar-event-creator
+name: "calendar-event-creator"
 description: |
   Calendar Event Creator - Auto-activating skill for Business Automation.
   Triggers on: calendar event creator, calendar event creator
-  Part of the Business Automation skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Business Automation skill category. Use when working with calendar event creator functionality. Trigger with phrases like "calendar event creator", "calendar creator", "calendar".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Calendar Event Creator

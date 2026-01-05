@@ -1,13 +1,13 @@
 ---
-name: request-body-validator
+name: "request-body-validator"
 description: |
   Request Body Validator - Auto-activating skill for API Development.
   Triggers on: request body validator, request body validator
-  Part of the API Development skill category.
-allowed-tools: Read, Write, Edit, Bash(curl:*), Grep
+  Part of the API Development skill category. Use when working with request body validator functionality. Trigger with phrases like "request body validator", "request validator", "request".
+allowed-tools: "Read, Write, Edit, Bash(curl:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Request Body Validator

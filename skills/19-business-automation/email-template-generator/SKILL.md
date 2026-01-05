@@ -1,13 +1,13 @@
 ---
-name: email-template-generator
+name: "email-template-generator"
 description: |
   Email Template Generator - Auto-activating skill for Business Automation.
   Triggers on: email template generator, email template generator
-  Part of the Business Automation skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Business Automation skill category. Use when working with email template generator functionality. Trigger with phrases like "email template generator", "email generator", "email".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Email Template Generator

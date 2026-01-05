@@ -1,13 +1,13 @@
 ---
-name: file-format-converter
+name: "file-format-converter"
 description: |
   File Format Converter - Auto-activating skill for Data Pipelines.
   Triggers on: file format converter, file format converter
-  Part of the Data Pipelines skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Pipelines skill category. Use when working with file format converter functionality. Trigger with phrases like "file format converter", "file converter", "file".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # File Format Converter

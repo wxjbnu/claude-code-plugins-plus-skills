@@ -1,13 +1,13 @@
 ---
-name: invoice-generator
+name: "invoice-generator"
 description: |
   Invoice Generator - Auto-activating skill for Business Automation.
   Triggers on: invoice generator, invoice generator
-  Part of the Business Automation skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Business Automation skill category. Use when working with invoice generator functionality. Trigger with phrases like "invoice generator", "invoice generator", "invoice".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Invoice Generator

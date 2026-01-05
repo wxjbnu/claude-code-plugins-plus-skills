@@ -1,13 +1,13 @@
 ---
-name: image-optimization-helper
+name: "image-optimization-helper"
 description: |
   Image Optimization Helper - Auto-activating skill for Frontend Development.
   Triggers on: image optimization helper, image optimization helper
-  Part of the Frontend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Frontend Development skill category. Use when working with image optimization helper functionality. Trigger with phrases like "image optimization helper", "image helper", "image".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Image Optimization Helper

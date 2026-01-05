@@ -1,13 +1,13 @@
 ---
-name: error-mapping-helper
+name: "error-mapping-helper"
 description: |
   Error Mapping Helper - Auto-activating skill for API Integration.
   Triggers on: error mapping helper, error mapping helper
-  Part of the API Integration skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the API Integration skill category. Use when working with error mapping helper functionality. Trigger with phrases like "error mapping helper", "error helper", "error".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Error Mapping Helper

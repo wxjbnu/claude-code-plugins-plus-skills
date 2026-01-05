@@ -1,13 +1,13 @@
 ---
-name: cdc-pipeline-creator
+name: "cdc-pipeline-creator"
 description: |
   Cdc Pipeline Creator - Auto-activating skill for Data Pipelines.
   Triggers on: cdc pipeline creator, cdc pipeline creator
-  Part of the Data Pipelines skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Pipelines skill category. Use when working with cdc pipeline creator functionality. Trigger with phrases like "cdc pipeline creator", "cdc creator", "cdc".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Cdc Pipeline Creator

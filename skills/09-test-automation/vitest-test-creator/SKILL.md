@@ -1,13 +1,13 @@
 ---
-name: vitest-test-creator
+name: "vitest-test-creator"
 description: |
   Vitest Test Creator - Auto-activating skill for Test Automation.
   Triggers on: vitest test creator, vitest test creator
-  Part of the Test Automation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Test Automation skill category. Use when writing or running tests. Trigger with phrases like "vitest test creator", "vitest creator", "vitest".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Vitest Test Creator

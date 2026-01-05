@@ -1,13 +1,13 @@
 ---
-name: pipeline-monitoring-setup
+name: "pipeline-monitoring-setup"
 description: |
   Pipeline Monitoring Setup - Auto-activating skill for Data Pipelines.
   Triggers on: pipeline monitoring setup, pipeline monitoring setup
-  Part of the Data Pipelines skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Pipelines skill category. Use when monitoring systems or services. Trigger with phrases like "pipeline monitoring setup", "pipeline setup", "pipeline".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Pipeline Monitoring Setup

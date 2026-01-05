@@ -1,13 +1,13 @@
 ---
-name: cloudwatch-alarm-creator
+name: "cloudwatch-alarm-creator"
 description: |
   Cloudwatch Alarm Creator - Auto-activating skill for AWS Skills.
   Triggers on: cloudwatch alarm creator, cloudwatch alarm creator
-  Part of the AWS Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(aws:*)
+  Part of the AWS Skills skill category. Use when working with cloudwatch alarm creator functionality. Trigger with phrases like "cloudwatch alarm creator", "cloudwatch creator", "cloudwatch".
+allowed-tools: "Read, Write, Edit, Bash(aws:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Cloudwatch Alarm Creator

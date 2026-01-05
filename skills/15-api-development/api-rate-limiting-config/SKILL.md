@@ -1,13 +1,13 @@
 ---
-name: api-rate-limiting-config
+name: "api-rate-limiting-config"
 description: |
   Api Rate Limiting Config - Auto-activating skill for API Development.
   Triggers on: api rate limiting config, api rate limiting config
-  Part of the API Development skill category.
-allowed-tools: Read, Write, Edit, Bash(curl:*), Grep
+  Part of the API Development skill category. Use when working with APIs or building integrations. Trigger with phrases like "api rate limiting config", "api config", "api".
+allowed-tools: "Read, Write, Edit, Bash(curl:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Api Rate Limiting Config

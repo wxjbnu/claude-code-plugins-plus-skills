@@ -1,13 +1,13 @@
 ---
-name: flux-gitops-setup
+name: "flux-gitops-setup"
 description: |
   Flux Gitops Setup - Auto-activating skill for DevOps Advanced.
   Triggers on: flux gitops setup, flux gitops setup
-  Part of the DevOps Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Advanced skill category. Use when working with flux gitops setup functionality. Trigger with phrases like "flux gitops setup", "flux setup", "flux".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Flux Gitops Setup

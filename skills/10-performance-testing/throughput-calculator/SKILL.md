@@ -1,13 +1,13 @@
 ---
-name: throughput-calculator
+name: "throughput-calculator"
 description: |
   Throughput Calculator - Auto-activating skill for Performance Testing.
   Triggers on: throughput calculator, throughput calculator
-  Part of the Performance Testing skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Performance Testing skill category. Use when working with throughput calculator functionality. Trigger with phrases like "throughput calculator", "throughput calculator", "throughput".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Throughput Calculator

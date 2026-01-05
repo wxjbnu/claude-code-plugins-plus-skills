@@ -1,13 +1,13 @@
 ---
-name: web-vitals-monitor
+name: "web-vitals-monitor"
 description: |
   Web Vitals Monitor - Auto-activating skill for Frontend Development.
   Triggers on: web vitals monitor, web vitals monitor
-  Part of the Frontend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Frontend Development skill category. Use when monitoring systems or services. Trigger with phrases like "web vitals monitor", "web monitor", "web".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Web Vitals Monitor

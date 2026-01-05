@@ -1,13 +1,13 @@
 ---
-name: readme-generator
+name: "readme-generator"
 description: |
   Readme Generator - Auto-activating skill for Technical Documentation.
   Triggers on: readme generator, readme generator
-  Part of the Technical Documentation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Technical Documentation skill category. Use when working with readme generator functionality. Trigger with phrases like "readme generator", "readme generator", "readme".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Readme Generator

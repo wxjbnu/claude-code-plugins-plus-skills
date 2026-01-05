@@ -1,13 +1,13 @@
 ---
-name: docker-compose-creator
+name: "docker-compose-creator"
 description: |
   Docker Compose Creator - Auto-activating skill for DevOps Basics.
   Triggers on: docker compose creator, docker compose creator
-  Part of the DevOps Basics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Basics skill category. Use when working with docker compose creator functionality. Trigger with phrases like "docker compose creator", "docker creator", "docker".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Docker Compose Creator

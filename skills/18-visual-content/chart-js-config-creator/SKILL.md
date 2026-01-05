@@ -1,13 +1,13 @@
 ---
-name: chart-js-config-creator
+name: "chart-js-config-creator"
 description: |
   Chart Js Config Creator - Auto-activating skill for Visual Content.
   Triggers on: chart js config creator, chart js config creator
-  Part of the Visual Content skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Visual Content skill category. Use when configuring systems or services. Trigger with phrases like "chart js config creator", "chart creator", "chart".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Chart Js Config Creator

@@ -1,13 +1,13 @@
 ---
-name: faq-generator
+name: "faq-generator"
 description: |
   Faq Generator - Auto-activating skill for Technical Documentation.
   Triggers on: faq generator, faq generator
-  Part of the Technical Documentation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Technical Documentation skill category. Use when working with faq generator functionality. Trigger with phrases like "faq generator", "faq generator", "faq".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Faq Generator

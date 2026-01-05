@@ -1,13 +1,13 @@
 ---
-name: api-gateway-config
+name: "api-gateway-config"
 description: |
   Api Gateway Config - Auto-activating skill for AWS Skills.
   Triggers on: api gateway config, api gateway config
-  Part of the AWS Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(aws:*)
+  Part of the AWS Skills skill category. Use when working with APIs or building integrations. Trigger with phrases like "api gateway config", "api config", "api".
+allowed-tools: "Read, Write, Edit, Bash(aws:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Api Gateway Config

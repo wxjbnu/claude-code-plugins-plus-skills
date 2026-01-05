@@ -1,13 +1,13 @@
 ---
-name: kubernetes-secrets-manager
+name: "kubernetes-secrets-manager"
 description: |
   Kubernetes Secrets Manager - Auto-activating skill for DevOps Advanced.
   Triggers on: kubernetes secrets manager, kubernetes secrets manager
-  Part of the DevOps Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Advanced skill category. Use when working with kubernetes secrets manager functionality. Trigger with phrases like "kubernetes secrets manager", "kubernetes manager", "kubernetes".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Kubernetes Secrets Manager

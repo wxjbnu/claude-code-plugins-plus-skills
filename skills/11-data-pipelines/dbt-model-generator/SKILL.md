@@ -1,13 +1,13 @@
 ---
-name: dbt-model-generator
+name: "dbt-model-generator"
 description: |
   Dbt Model Generator - Auto-activating skill for Data Pipelines.
   Triggers on: dbt model generator, dbt model generator
-  Part of the Data Pipelines skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Pipelines skill category. Use when working with dbt model generator functionality. Trigger with phrases like "dbt model generator", "dbt generator", "dbt".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Dbt Model Generator

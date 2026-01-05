@@ -1,13 +1,13 @@
 ---
-name: mermaid-er-diagram-creator
+name: "mermaid-er-diagram-creator"
 description: |
   Mermaid Er Diagram Creator - Auto-activating skill for Visual Content.
   Triggers on: mermaid er diagram creator, mermaid er diagram creator
-  Part of the Visual Content skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Visual Content skill category. Use when working with mermaid er diagram creator functionality. Trigger with phrases like "mermaid er diagram creator", "mermaid creator", "mermaid".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Mermaid Er Diagram Creator

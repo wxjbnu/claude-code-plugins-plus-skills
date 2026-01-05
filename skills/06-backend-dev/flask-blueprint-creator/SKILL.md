@@ -1,13 +1,13 @@
 ---
-name: flask-blueprint-creator
+name: "flask-blueprint-creator"
 description: |
   Flask Blueprint Creator - Auto-activating skill for Backend Development.
   Triggers on: flask blueprint creator, flask blueprint creator
-  Part of the Backend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Backend Development skill category. Use when working with flask blueprint creator functionality. Trigger with phrases like "flask blueprint creator", "flask creator", "flask".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Flask Blueprint Creator

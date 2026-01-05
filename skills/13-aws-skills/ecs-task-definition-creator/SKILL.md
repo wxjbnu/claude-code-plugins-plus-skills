@@ -1,13 +1,13 @@
 ---
-name: ecs-task-definition-creator
+name: "ecs-task-definition-creator"
 description: |
   Ecs Task Definition Creator - Auto-activating skill for AWS Skills.
   Triggers on: ecs task definition creator, ecs task definition creator
-  Part of the AWS Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(aws:*)
+  Part of the AWS Skills skill category. Use when working with ecs task definition creator functionality. Trigger with phrases like "ecs task definition creator", "ecs creator", "ecs".
+allowed-tools: "Read, Write, Edit, Bash(aws:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Ecs Task Definition Creator

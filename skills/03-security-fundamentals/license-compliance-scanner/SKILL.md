@@ -1,13 +1,13 @@
 ---
-name: license-compliance-scanner
+name: "license-compliance-scanner"
 description: |
   License Compliance Scanner - Auto-activating skill for Security Fundamentals.
   Triggers on: license compliance scanner, license compliance scanner
-  Part of the Security Fundamentals skill category.
-allowed-tools: Read, Write, Grep, Bash(npm:*)
+  Part of the Security Fundamentals skill category. Use when working with license compliance scanner functionality. Trigger with phrases like "license compliance scanner", "license scanner", "license".
+allowed-tools: "Read, Write, Grep, Bash(npm:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # License Compliance Scanner

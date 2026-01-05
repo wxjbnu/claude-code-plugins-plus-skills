@@ -1,13 +1,13 @@
 ---
-name: forecast-generator
+name: "forecast-generator"
 description: |
   Forecast Generator - Auto-activating skill for Data Analytics.
   Triggers on: forecast generator, forecast generator
-  Part of the Data Analytics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Analytics skill category. Use when working with forecast generator functionality. Trigger with phrases like "forecast generator", "forecast generator", "forecast".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Forecast Generator

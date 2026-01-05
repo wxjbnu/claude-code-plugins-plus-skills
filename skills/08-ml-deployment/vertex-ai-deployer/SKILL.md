@@ -1,13 +1,13 @@
 ---
-name: vertex-ai-deployer
+name: "vertex-ai-deployer"
 description: |
   Vertex Ai Deployer - Auto-activating skill for ML Deployment.
   Triggers on: vertex ai deployer, vertex ai deployer
-  Part of the ML Deployment skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the ML Deployment skill category. Use when deploying applications or services. Trigger with phrases like "vertex ai deployer", "vertex deployer", "deploy vertex ai er".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Vertex Ai Deployer

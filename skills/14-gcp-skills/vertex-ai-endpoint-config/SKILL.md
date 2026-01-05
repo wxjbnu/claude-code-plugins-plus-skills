@@ -1,13 +1,13 @@
 ---
-name: vertex-ai-endpoint-config
+name: "vertex-ai-endpoint-config"
 description: |
   Vertex Ai Endpoint Config - Auto-activating skill for GCP Skills.
   Triggers on: vertex ai endpoint config, vertex ai endpoint config
-  Part of the GCP Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(gcloud:*)
+  Part of the GCP Skills skill category. Use when configuring systems or services. Trigger with phrases like "vertex ai endpoint config", "vertex config", "vertex".
+allowed-tools: "Read, Write, Edit, Bash(gcloud:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Vertex Ai Endpoint Config

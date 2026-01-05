@@ -1,13 +1,13 @@
 ---
-name: torchscript-exporter
+name: "torchscript-exporter"
 description: |
   Torchscript Exporter - Auto-activating skill for ML Deployment.
   Triggers on: torchscript exporter, torchscript exporter
-  Part of the ML Deployment skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the ML Deployment skill category. Use when working with torchscript exporter functionality. Trigger with phrases like "torchscript exporter", "torchscript exporter", "torchscript".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Torchscript Exporter

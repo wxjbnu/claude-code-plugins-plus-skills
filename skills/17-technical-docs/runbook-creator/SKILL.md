@@ -1,13 +1,13 @@
 ---
-name: runbook-creator
+name: "runbook-creator"
 description: |
   Runbook Creator - Auto-activating skill for Technical Documentation.
   Triggers on: runbook creator, runbook creator
-  Part of the Technical Documentation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Technical Documentation skill category. Use when working with runbook creator functionality. Trigger with phrases like "runbook creator", "runbook creator", "runbook".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Runbook Creator

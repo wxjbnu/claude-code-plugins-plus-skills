@@ -1,13 +1,13 @@
 ---
-name: step-functions-workflow
+name: "step-functions-workflow"
 description: |
   Step Functions Workflow - Auto-activating skill for AWS Skills.
   Triggers on: step functions workflow, step functions workflow
-  Part of the AWS Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(aws:*)
+  Part of the AWS Skills skill category. Use when working with step functions workflow functionality. Trigger with phrases like "step functions workflow", "step workflow", "step".
+allowed-tools: "Read, Write, Edit, Bash(aws:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Step Functions Workflow

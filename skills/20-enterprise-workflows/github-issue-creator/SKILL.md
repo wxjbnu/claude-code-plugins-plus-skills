@@ -1,13 +1,13 @@
 ---
-name: github-issue-creator
+name: "github-issue-creator"
 description: |
   Github Issue Creator - Auto-activating skill for Enterprise Workflows.
   Triggers on: github issue creator, github issue creator
-  Part of the Enterprise Workflows skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Enterprise Workflows skill category. Use when working with github issue creator functionality. Trigger with phrases like "github issue creator", "github creator", "github".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Github Issue Creator

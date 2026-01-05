@@ -1,13 +1,13 @@
 ---
-name: technical-diagram-analyzer
+name: "technical-diagram-analyzer"
 description: |
   Technical Diagram Analyzer - Auto-activating skill for Visual Content.
   Triggers on: technical diagram analyzer, technical diagram analyzer
-  Part of the Visual Content skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Visual Content skill category. Use when analyzing or auditing technical diagram analyzer. Trigger with phrases like "technical diagram analyzer", "technical analyzer", "analyze technical diagram r".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Technical Diagram Analyzer

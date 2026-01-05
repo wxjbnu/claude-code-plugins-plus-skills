@@ -1,13 +1,13 @@
 ---
-name: dockerfile-generator
+name: "dockerfile-generator"
 description: |
   Dockerfile Generator - Auto-activating skill for DevOps Basics.
   Triggers on: dockerfile generator, dockerfile generator
-  Part of the DevOps Basics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Basics skill category. Use when working with dockerfile generator functionality. Trigger with phrases like "dockerfile generator", "dockerfile generator", "dockerfile".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Dockerfile Generator

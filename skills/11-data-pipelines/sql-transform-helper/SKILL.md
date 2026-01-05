@@ -1,13 +1,13 @@
 ---
-name: sql-transform-helper
+name: "sql-transform-helper"
 description: |
   Sql Transform Helper - Auto-activating skill for Data Pipelines.
   Triggers on: sql transform helper, sql transform helper
-  Part of the Data Pipelines skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Pipelines skill category. Use when working with sql transform helper functionality. Trigger with phrases like "sql transform helper", "sql helper", "sql".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Sql Transform Helper

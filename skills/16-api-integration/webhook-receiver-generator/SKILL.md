@@ -1,13 +1,13 @@
 ---
-name: webhook-receiver-generator
+name: "webhook-receiver-generator"
 description: |
   Webhook Receiver Generator - Auto-activating skill for API Integration.
   Triggers on: webhook receiver generator, webhook receiver generator
-  Part of the API Integration skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the API Integration skill category. Use when working with webhook receiver generator functionality. Trigger with phrases like "webhook receiver generator", "webhook generator", "webhook".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Webhook Receiver Generator

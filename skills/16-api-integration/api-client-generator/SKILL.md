@@ -1,13 +1,13 @@
 ---
-name: api-client-generator
+name: "api-client-generator"
 description: |
   Api Client Generator - Auto-activating skill for API Integration.
   Triggers on: api client generator, api client generator
-  Part of the API Integration skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the API Integration skill category. Use when working with APIs or building integrations. Trigger with phrases like "api client generator", "api generator", "api".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Api Client Generator

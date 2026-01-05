@@ -1,13 +1,13 @@
 ---
-name: model-checkpoint-manager
+name: "model-checkpoint-manager"
 description: |
   Model Checkpoint Manager - Auto-activating skill for ML Training.
   Triggers on: model checkpoint manager, model checkpoint manager
-  Part of the ML Training skill category.
-allowed-tools: Read, Write, Edit, Bash(python:*), Bash(pip:*)
+  Part of the ML Training skill category. Use when working with model checkpoint manager functionality. Trigger with phrases like "model checkpoint manager", "model manager", "model".
+allowed-tools: "Read, Write, Edit, Bash(python:*), Bash(pip:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Model Checkpoint Manager

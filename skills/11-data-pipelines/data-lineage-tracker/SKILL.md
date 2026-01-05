@@ -1,13 +1,13 @@
 ---
-name: data-lineage-tracker
+name: "data-lineage-tracker"
 description: |
   Data Lineage Tracker - Auto-activating skill for Data Pipelines.
   Triggers on: data lineage tracker, data lineage tracker
-  Part of the Data Pipelines skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Pipelines skill category. Use when working with data lineage tracker functionality. Trigger with phrases like "data lineage tracker", "data tracker", "data".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Data Lineage Tracker

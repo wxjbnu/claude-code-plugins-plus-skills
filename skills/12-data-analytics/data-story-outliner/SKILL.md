@@ -1,13 +1,13 @@
 ---
-name: data-story-outliner
+name: "data-story-outliner"
 description: |
   Data Story Outliner - Auto-activating skill for Data Analytics.
   Triggers on: data story outliner, data story outliner
-  Part of the Data Analytics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Analytics skill category. Use when working with data story outliner functionality. Trigger with phrases like "data story outliner", "data outliner", "data".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Data Story Outliner

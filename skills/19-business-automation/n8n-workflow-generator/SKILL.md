@@ -1,13 +1,13 @@
 ---
-name: n8n-workflow-generator
+name: "n8n-workflow-generator"
 description: |
   N8N Workflow Generator - Auto-activating skill for Business Automation.
   Triggers on: n8n workflow generator, n8n workflow generator
-  Part of the Business Automation skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Business Automation skill category. Use when working with n8n workflow generator functionality. Trigger with phrases like "n8n workflow generator", "n8n generator", "n8n".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # N8N Workflow Generator

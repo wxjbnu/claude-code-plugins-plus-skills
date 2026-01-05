@@ -1,13 +1,13 @@
 ---
-name: heap-dump-analyzer
+name: "heap-dump-analyzer"
 description: |
   Heap Dump Analyzer - Auto-activating skill for Performance Testing.
   Triggers on: heap dump analyzer, heap dump analyzer
-  Part of the Performance Testing skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Performance Testing skill category. Use when analyzing or auditing heap dump analyzer. Trigger with phrases like "heap dump analyzer", "heap analyzer", "analyze heap dump r".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Heap Dump Analyzer

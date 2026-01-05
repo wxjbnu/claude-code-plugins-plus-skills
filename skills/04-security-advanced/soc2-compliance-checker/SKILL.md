@@ -1,13 +1,13 @@
 ---
-name: soc2-compliance-checker
+name: "soc2-compliance-checker"
 description: |
   Soc2 Compliance Checker - Auto-activating skill for Security Advanced.
   Triggers on: soc2 compliance checker, soc2 compliance checker
-  Part of the Security Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Security Advanced skill category. Use when working with soc2 compliance checker functionality. Trigger with phrases like "soc2 compliance checker", "soc2 checker", "soc2".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Soc2 Compliance Checker

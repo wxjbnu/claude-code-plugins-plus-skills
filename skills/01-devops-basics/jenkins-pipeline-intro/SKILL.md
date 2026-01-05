@@ -1,13 +1,13 @@
 ---
-name: jenkins-pipeline-intro
+name: "jenkins-pipeline-intro"
 description: |
   Jenkins Pipeline Intro - Auto-activating skill for DevOps Basics.
   Triggers on: jenkins pipeline intro, jenkins pipeline intro
-  Part of the DevOps Basics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Basics skill category. Use when working with jenkins pipeline intro functionality. Trigger with phrases like "jenkins pipeline intro", "jenkins intro", "jenkins".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Jenkins Pipeline Intro

@@ -1,12 +1,12 @@
 ---
-name: cursor-tab-completion
+name: "cursor-tab-completion"
 description: |
   Master Cursor tab completion and AI code suggestions. Triggers on "cursor completion",
-  "cursor tab", "cursor suggestions", "cursor autocomplete", "cursor ghost text".
-allowed-tools: Read, Write, Edit, Bash
+  "cursor tab", "cursor suggestions", "cursor autocomplete", "cursor ghost text". Use when working with cursor tab completion functionality. Trigger with phrases like "cursor tab completion", "cursor completion", "cursor".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Cursor Tab Completion Mastery

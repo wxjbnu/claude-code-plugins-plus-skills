@@ -1,13 +1,13 @@
 ---
-name: model-evaluation-metrics
+name: "model-evaluation-metrics"
 description: |
   Model Evaluation Metrics - Auto-activating skill for ML Training.
   Triggers on: model evaluation metrics, model evaluation metrics
-  Part of the ML Training skill category.
-allowed-tools: Read, Write, Edit, Bash(python:*), Bash(pip:*)
+  Part of the ML Training skill category. Use when working with model evaluation metrics functionality. Trigger with phrases like "model evaluation metrics", "model metrics", "model".
+allowed-tools: "Read, Write, Edit, Bash(python:*), Bash(pip:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Model Evaluation Metrics

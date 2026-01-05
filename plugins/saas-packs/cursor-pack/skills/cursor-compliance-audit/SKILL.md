@@ -1,12 +1,12 @@
 ---
-name: cursor-compliance-audit
+name: "cursor-compliance-audit"
 description: |
   Compliance and security auditing for Cursor usage. Triggers on "cursor compliance",
-  "cursor audit", "cursor security review", "cursor soc2", "cursor gdpr".
-allowed-tools: Read, Write, Edit, Bash
+  "cursor audit", "cursor security review", "cursor soc2", "cursor gdpr". Use when analyzing or auditing cursor compliance audit. Trigger with phrases like "cursor compliance audit", "cursor audit", "cursor".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Cursor Compliance & Security Audit

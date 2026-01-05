@@ -1,13 +1,13 @@
 ---
-name: sla-monitor-setup
+name: "sla-monitor-setup"
 description: |
   Sla Monitor Setup - Auto-activating skill for Enterprise Workflows.
   Triggers on: sla monitor setup, sla monitor setup
-  Part of the Enterprise Workflows skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Enterprise Workflows skill category. Use when monitoring systems or services. Trigger with phrases like "sla monitor setup", "sla setup", "sla".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Sla Monitor Setup

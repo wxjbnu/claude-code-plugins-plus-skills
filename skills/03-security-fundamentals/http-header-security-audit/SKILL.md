@@ -1,13 +1,13 @@
 ---
-name: http-header-security-audit
+name: "http-header-security-audit"
 description: |
   Http Header Security Audit - Auto-activating skill for Security Fundamentals.
   Triggers on: http header security audit, http header security audit
-  Part of the Security Fundamentals skill category.
-allowed-tools: Read, Write, Grep, Bash(npm:*)
+  Part of the Security Fundamentals skill category. Use when analyzing or auditing http header security audit. Trigger with phrases like "http header security audit", "http audit", "http".
+allowed-tools: "Read, Write, Grep, Bash(npm:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Http Header Security Audit

@@ -1,13 +1,13 @@
 ---
-name: hyperparameter-tuner
+name: "hyperparameter-tuner"
 description: |
   Hyperparameter Tuner - Auto-activating skill for ML Training.
   Triggers on: hyperparameter tuner, hyperparameter tuner
-  Part of the ML Training skill category.
-allowed-tools: Read, Write, Edit, Bash(python:*), Bash(pip:*)
+  Part of the ML Training skill category. Use when working with hyperparameter tuner functionality. Trigger with phrases like "hyperparameter tuner", "hyperparameter tuner", "hyperparameter".
+allowed-tools: "Read, Write, Edit, Bash(python:*), Bash(pip:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Hyperparameter Tuner

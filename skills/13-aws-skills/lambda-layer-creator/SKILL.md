@@ -1,13 +1,13 @@
 ---
-name: lambda-layer-creator
+name: "lambda-layer-creator"
 description: |
   Lambda Layer Creator - Auto-activating skill for AWS Skills.
   Triggers on: lambda layer creator, lambda layer creator
-  Part of the AWS Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(aws:*)
+  Part of the AWS Skills skill category. Use when working with lambda layer creator functionality. Trigger with phrases like "lambda layer creator", "lambda creator", "lambda".
+allowed-tools: "Read, Write, Edit, Bash(aws:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Lambda Layer Creator

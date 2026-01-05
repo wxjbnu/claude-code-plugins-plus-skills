@@ -1,13 +1,13 @@
 ---
-name: pytorch-model-trainer
+name: "pytorch-model-trainer"
 description: |
   Pytorch Model Trainer - Auto-activating skill for ML Training.
   Triggers on: pytorch model trainer, pytorch model trainer
-  Part of the ML Training skill category.
-allowed-tools: Read, Write, Edit, Bash(python:*), Bash(pip:*)
+  Part of the ML Training skill category. Use when working with pytorch model trainer functionality. Trigger with phrases like "pytorch model trainer", "pytorch trainer", "pytorch".
+allowed-tools: "Read, Write, Edit, Bash(python:*), Bash(pip:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Pytorch Model Trainer

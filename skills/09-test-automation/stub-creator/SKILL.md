@@ -1,13 +1,13 @@
 ---
-name: stub-creator
+name: "stub-creator"
 description: |
   Stub Creator - Auto-activating skill for Test Automation.
   Triggers on: stub creator, stub creator
-  Part of the Test Automation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Test Automation skill category. Use when working with stub creator functionality. Trigger with phrases like "stub creator", "stub creator", "stub".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Stub Creator

@@ -1,13 +1,13 @@
 ---
-name: lambda-function-generator
+name: "lambda-function-generator"
 description: |
   Lambda Function Generator - Auto-activating skill for AWS Skills.
   Triggers on: lambda function generator, lambda function generator
-  Part of the AWS Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(aws:*)
+  Part of the AWS Skills skill category. Use when working with lambda function generator functionality. Trigger with phrases like "lambda function generator", "lambda generator", "lambda".
+allowed-tools: "Read, Write, Edit, Bash(aws:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Lambda Function Generator

@@ -1,12 +1,12 @@
 ---
-name: cursor-known-pitfalls
+name: "cursor-known-pitfalls"
 description: |
   Avoid common Cursor IDE pitfalls and mistakes. Triggers on "cursor pitfalls",
-  "cursor mistakes", "cursor gotchas", "cursor issues", "cursor problems".
-allowed-tools: Read, Write, Edit, Bash
+  "cursor mistakes", "cursor gotchas", "cursor issues", "cursor problems". Use when working with cursor known pitfalls functionality. Trigger with phrases like "cursor known pitfalls", "cursor pitfalls", "cursor".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Cursor Known Pitfalls & Solutions

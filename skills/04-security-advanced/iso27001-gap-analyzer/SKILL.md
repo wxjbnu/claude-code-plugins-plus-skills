@@ -1,13 +1,13 @@
 ---
-name: iso27001-gap-analyzer
+name: "iso27001-gap-analyzer"
 description: |
   Iso27001 Gap Analyzer - Auto-activating skill for Security Advanced.
   Triggers on: iso27001 gap analyzer, iso27001 gap analyzer
-  Part of the Security Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Security Advanced skill category. Use when analyzing or auditing iso27001 gap analyzer. Trigger with phrases like "iso27001 gap analyzer", "iso27001 analyzer", "analyze iso27001 gap r".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Iso27001 Gap Analyzer

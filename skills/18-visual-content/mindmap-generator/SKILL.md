@@ -1,13 +1,13 @@
 ---
-name: mindmap-generator
+name: "mindmap-generator"
 description: |
   Mindmap Generator - Auto-activating skill for Visual Content.
   Triggers on: mindmap generator, mindmap generator
-  Part of the Visual Content skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Visual Content skill category. Use when working with mindmap generator functionality. Trigger with phrases like "mindmap generator", "mindmap generator", "mindmap".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Mindmap Generator

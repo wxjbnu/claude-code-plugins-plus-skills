@@ -1,13 +1,13 @@
 ---
-name: performance-baseline-creator
+name: "performance-baseline-creator"
 description: |
   Performance Baseline Creator - Auto-activating skill for Performance Testing.
   Triggers on: performance baseline creator, performance baseline creator
-  Part of the Performance Testing skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Performance Testing skill category. Use when working with performance baseline creator functionality. Trigger with phrases like "performance baseline creator", "performance creator", "performance".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Performance Baseline Creator

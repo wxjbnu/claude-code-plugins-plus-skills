@@ -1,13 +1,13 @@
 ---
-name: error-handler-middleware
+name: "error-handler-middleware"
 description: |
   Error Handler Middleware - Auto-activating skill for Backend Development.
   Triggers on: error handler middleware, error handler middleware
-  Part of the Backend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Backend Development skill category. Use when working with error handler middleware functionality. Trigger with phrases like "error handler middleware", "error middleware", "error".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Error Handler Middleware

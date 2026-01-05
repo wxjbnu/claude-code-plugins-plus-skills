@@ -1,13 +1,13 @@
 ---
-name: firewall-rule-generator
+name: "firewall-rule-generator"
 description: |
   Firewall Rule Generator - Auto-activating skill for GCP Skills.
   Triggers on: firewall rule generator, firewall rule generator
-  Part of the GCP Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(gcloud:*)
+  Part of the GCP Skills skill category. Use when working with firewall rule generator functionality. Trigger with phrases like "firewall rule generator", "firewall generator", "firewall".
+allowed-tools: "Read, Write, Edit, Bash(gcloud:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Firewall Rule Generator

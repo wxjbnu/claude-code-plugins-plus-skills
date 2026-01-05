@@ -1,13 +1,13 @@
 ---
-name: kpi-definition-helper
+name: "kpi-definition-helper"
 description: |
   Kpi Definition Helper - Auto-activating skill for Data Analytics.
   Triggers on: kpi definition helper, kpi definition helper
-  Part of the Data Analytics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Analytics skill category. Use when working with kpi definition helper functionality. Trigger with phrases like "kpi definition helper", "kpi helper", "kpi".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Kpi Definition Helper

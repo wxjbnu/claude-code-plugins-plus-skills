@@ -1,15 +1,16 @@
 ---
-name: sentry-advanced-troubleshooting
+name: "sentry-advanced-troubleshooting"
 description: |
   Advanced Sentry troubleshooting techniques.
   Use when debugging complex SDK issues, missing events,
   source map problems, or performance anomalies.
   Trigger with phrases like "sentry not working", "debug sentry",
   "sentry events missing", "fix sentry issues".
-allowed-tools: Read, Write, Edit, Grep, Bash
+  
+allowed-tools: "Read, Write, Edit, Grep, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Sentry Advanced Troubleshooting

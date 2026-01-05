@@ -1,13 +1,13 @@
 ---
-name: cron-job-scheduler
+name: "cron-job-scheduler"
 description: |
   Cron Job Scheduler - Auto-activating skill for Backend Development.
   Triggers on: cron job scheduler, cron job scheduler
-  Part of the Backend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Backend Development skill category. Use when working with cron job scheduler functionality. Trigger with phrases like "cron job scheduler", "cron scheduler", "cron".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Cron Job Scheduler

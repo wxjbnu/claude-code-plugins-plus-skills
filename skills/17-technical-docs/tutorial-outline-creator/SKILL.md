@@ -1,13 +1,13 @@
 ---
-name: tutorial-outline-creator
+name: "tutorial-outline-creator"
 description: |
   Tutorial Outline Creator - Auto-activating skill for Technical Documentation.
   Triggers on: tutorial outline creator, tutorial outline creator
-  Part of the Technical Documentation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Technical Documentation skill category. Use when working with tutorial outline creator functionality. Trigger with phrases like "tutorial outline creator", "tutorial creator", "tutorial".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Tutorial Outline Creator

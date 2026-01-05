@@ -1,13 +1,13 @@
 ---
-name: gcs-lifecycle-policy
+name: "gcs-lifecycle-policy"
 description: |
   Gcs Lifecycle Policy - Auto-activating skill for GCP Skills.
   Triggers on: gcs lifecycle policy, gcs lifecycle policy
-  Part of the GCP Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(gcloud:*)
+  Part of the GCP Skills skill category. Use when working with gcs lifecycle policy functionality. Trigger with phrases like "gcs lifecycle policy", "gcs policy", "gcs".
+allowed-tools: "Read, Write, Edit, Bash(gcloud:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Gcs Lifecycle Policy

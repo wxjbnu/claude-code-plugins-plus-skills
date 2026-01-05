@@ -1,13 +1,13 @@
 ---
-name: configuration-reference-generator
+name: "configuration-reference-generator"
 description: |
   Configuration Reference Generator - Auto-activating skill for Technical Documentation.
   Triggers on: configuration reference generator, configuration reference generator
-  Part of the Technical Documentation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Technical Documentation skill category. Use when configuring systems or services. Trigger with phrases like "configuration reference generator", "configuration generator", "configuration".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Configuration Reference Generator

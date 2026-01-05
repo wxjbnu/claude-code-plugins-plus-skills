@@ -1,13 +1,13 @@
 ---
-name: kafka-stream-processor
+name: "kafka-stream-processor"
 description: |
   Kafka Stream Processor - Auto-activating skill for Data Pipelines.
   Triggers on: kafka stream processor, kafka stream processor
-  Part of the Data Pipelines skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Pipelines skill category. Use when working with kafka stream processor functionality. Trigger with phrases like "kafka stream processor", "kafka processor", "kafka".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Kafka Stream Processor

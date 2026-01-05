@@ -1,13 +1,13 @@
 ---
-name: ansible-playbook-generator
+name: "ansible-playbook-generator"
 description: |
   Ansible Playbook Generator - Auto-activating skill for DevOps Advanced.
   Triggers on: ansible playbook generator, ansible playbook generator
-  Part of the DevOps Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Advanced skill category. Use when working with ansible playbook generator functionality. Trigger with phrases like "ansible playbook generator", "ansible generator", "ansible".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Ansible Playbook Generator

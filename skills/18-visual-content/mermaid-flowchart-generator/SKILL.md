@@ -1,13 +1,13 @@
 ---
-name: mermaid-flowchart-generator
+name: "mermaid-flowchart-generator"
 description: |
   Mermaid Flowchart Generator - Auto-activating skill for Visual Content.
   Triggers on: mermaid flowchart generator, mermaid flowchart generator
-  Part of the Visual Content skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Visual Content skill category. Use when working with mermaid flowchart generator functionality. Trigger with phrases like "mermaid flowchart generator", "mermaid generator", "mermaid".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Mermaid Flowchart Generator

@@ -1,13 +1,13 @@
 ---
-name: audit-trail-helper
+name: "audit-trail-helper"
 description: |
   Audit Trail Helper - Auto-activating skill for Enterprise Workflows.
   Triggers on: audit trail helper, audit trail helper
-  Part of the Enterprise Workflows skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Enterprise Workflows skill category. Use when analyzing or auditing audit trail helper. Trigger with phrases like "audit trail helper", "audit helper", "audit".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Audit Trail Helper

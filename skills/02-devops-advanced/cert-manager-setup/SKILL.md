@@ -1,13 +1,13 @@
 ---
-name: cert-manager-setup
+name: "cert-manager-setup"
 description: |
   Cert Manager Setup - Auto-activating skill for DevOps Advanced.
   Triggers on: cert manager setup, cert manager setup
-  Part of the DevOps Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Advanced skill category. Use when working with cert manager setup functionality. Trigger with phrases like "cert manager setup", "cert setup", "cert".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Cert Manager Setup

@@ -1,13 +1,13 @@
 ---
-name: apdex-score-calculator
+name: "apdex-score-calculator"
 description: |
   Apdex Score Calculator - Auto-activating skill for Performance Testing.
   Triggers on: apdex score calculator, apdex score calculator
-  Part of the Performance Testing skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Performance Testing skill category. Use when working with apdex score calculator functionality. Trigger with phrases like "apdex score calculator", "apdex calculator", "apdex".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Apdex Score Calculator

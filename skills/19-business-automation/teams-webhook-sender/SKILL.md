@@ -1,13 +1,13 @@
 ---
-name: teams-webhook-sender
+name: "teams-webhook-sender"
 description: |
   Teams Webhook Sender - Auto-activating skill for Business Automation.
   Triggers on: teams webhook sender, teams webhook sender
-  Part of the Business Automation skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Business Automation skill category. Use when working with teams webhook sender functionality. Trigger with phrases like "teams webhook sender", "teams sender", "teams".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Teams Webhook Sender

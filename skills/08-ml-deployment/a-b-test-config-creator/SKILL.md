@@ -1,13 +1,13 @@
 ---
-name: a-b-test-config-creator
+name: "a-b-test-config-creator"
 description: |
   A B Test Config Creator - Auto-activating skill for ML Deployment.
   Triggers on: a b test config creator, a b test config creator
-  Part of the ML Deployment skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the ML Deployment skill category. Use when writing or running tests. Trigger with phrases like "a b test config creator", "a creator", "a".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # A B Test Config Creator

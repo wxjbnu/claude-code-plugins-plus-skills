@@ -1,13 +1,13 @@
 ---
-name: firestore-index-creator
+name: "firestore-index-creator"
 description: |
   Firestore Index Creator - Auto-activating skill for GCP Skills.
   Triggers on: firestore index creator, firestore index creator
-  Part of the GCP Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(gcloud:*)
+  Part of the GCP Skills skill category. Use when working with firestore index creator functionality. Trigger with phrases like "firestore index creator", "firestore creator", "firestore".
+allowed-tools: "Read, Write, Edit, Bash(gcloud:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Firestore Index Creator

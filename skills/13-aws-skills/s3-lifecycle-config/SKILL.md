@@ -1,13 +1,13 @@
 ---
-name: s3-lifecycle-config
+name: "s3-lifecycle-config"
 description: |
   S3 Lifecycle Config - Auto-activating skill for AWS Skills.
   Triggers on: s3 lifecycle config, s3 lifecycle config
-  Part of the AWS Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(aws:*)
+  Part of the AWS Skills skill category. Use when configuring systems or services. Trigger with phrases like "s3 lifecycle config", "s3 config", "s3".
+allowed-tools: "Read, Write, Edit, Bash(aws:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # S3 Lifecycle Config

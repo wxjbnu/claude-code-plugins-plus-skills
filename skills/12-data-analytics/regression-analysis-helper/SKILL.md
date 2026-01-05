@@ -1,13 +1,13 @@
 ---
-name: regression-analysis-helper
+name: "regression-analysis-helper"
 description: |
   Regression Analysis Helper - Auto-activating skill for Data Analytics.
   Triggers on: regression analysis helper, regression analysis helper
-  Part of the Data Analytics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Analytics skill category. Use when working with regression analysis helper functionality. Trigger with phrases like "regression analysis helper", "regression helper", "regression".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Regression Analysis Helper

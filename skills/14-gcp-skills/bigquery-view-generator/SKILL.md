@@ -1,13 +1,13 @@
 ---
-name: bigquery-view-generator
+name: "bigquery-view-generator"
 description: |
   Bigquery View Generator - Auto-activating skill for GCP Skills.
   Triggers on: bigquery view generator, bigquery view generator
-  Part of the GCP Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(gcloud:*)
+  Part of the GCP Skills skill category. Use when working with bigquery view generator functionality. Trigger with phrases like "bigquery view generator", "bigquery generator", "bigquery".
+allowed-tools: "Read, Write, Edit, Bash(gcloud:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Bigquery View Generator

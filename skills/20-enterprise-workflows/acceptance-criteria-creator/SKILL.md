@@ -1,13 +1,13 @@
 ---
-name: acceptance-criteria-creator
+name: "acceptance-criteria-creator"
 description: |
   Acceptance Criteria Creator - Auto-activating skill for Enterprise Workflows.
   Triggers on: acceptance criteria creator, acceptance criteria creator
-  Part of the Enterprise Workflows skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Enterprise Workflows skill category. Use when working with acceptance criteria creator functionality. Trigger with phrases like "acceptance criteria creator", "acceptance creator", "acceptance".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Acceptance Criteria Creator

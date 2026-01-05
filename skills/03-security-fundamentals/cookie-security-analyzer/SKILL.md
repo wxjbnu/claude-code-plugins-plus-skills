@@ -1,13 +1,13 @@
 ---
-name: cookie-security-analyzer
+name: "cookie-security-analyzer"
 description: |
   Cookie Security Analyzer - Auto-activating skill for Security Fundamentals.
   Triggers on: cookie security analyzer, cookie security analyzer
-  Part of the Security Fundamentals skill category.
-allowed-tools: Read, Write, Grep, Bash(npm:*)
+  Part of the Security Fundamentals skill category. Use when analyzing or auditing cookie security analyzer. Trigger with phrases like "cookie security analyzer", "cookie analyzer", "analyze cookie security r".
+allowed-tools: "Read, Write, Grep, Bash(npm:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Cookie Security Analyzer

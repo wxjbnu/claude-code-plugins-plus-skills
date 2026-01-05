@@ -1,13 +1,13 @@
 ---
-name: penetration-test-planner
+name: "penetration-test-planner"
 description: |
   Penetration Test Planner - Auto-activating skill for Security Advanced.
   Triggers on: penetration test planner, penetration test planner
-  Part of the Security Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Security Advanced skill category. Use when writing or running tests. Trigger with phrases like "penetration test planner", "penetration planner", "penetration".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Penetration Test Planner

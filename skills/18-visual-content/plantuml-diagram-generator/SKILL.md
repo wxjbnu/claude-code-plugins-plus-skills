@@ -1,13 +1,13 @@
 ---
-name: plantuml-diagram-generator
+name: "plantuml-diagram-generator"
 description: |
   Plantuml Diagram Generator - Auto-activating skill for Visual Content.
   Triggers on: plantuml diagram generator, plantuml diagram generator
-  Part of the Visual Content skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Visual Content skill category. Use when working with plantuml diagram generator functionality. Trigger with phrases like "plantuml diagram generator", "plantuml generator", "plantuml".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Plantuml Diagram Generator

@@ -1,13 +1,13 @@
 ---
-name: governance-checklist-generator
+name: "governance-checklist-generator"
 description: |
   Governance Checklist Generator - Auto-activating skill for Enterprise Workflows.
   Triggers on: governance checklist generator, governance checklist generator
-  Part of the Enterprise Workflows skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Enterprise Workflows skill category. Use when working with governance checklist generator functionality. Trigger with phrases like "governance checklist generator", "governance generator", "governance".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Governance Checklist Generator

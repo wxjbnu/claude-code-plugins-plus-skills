@@ -1,13 +1,13 @@
 ---
-name: csv-processor
+name: "csv-processor"
 description: |
   Csv Processor - Auto-activating skill for Business Automation.
   Triggers on: csv processor, csv processor
-  Part of the Business Automation skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Business Automation skill category. Use when working with csv processor functionality. Trigger with phrases like "csv processor", "csv processor", "csv".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Csv Processor

@@ -1,13 +1,13 @@
 ---
-name: architecture-doc-creator
+name: "architecture-doc-creator"
 description: |
   Architecture Doc Creator - Auto-activating skill for Technical Documentation.
   Triggers on: architecture doc creator, architecture doc creator
-  Part of the Technical Documentation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Technical Documentation skill category. Use when working with architecture doc creator functionality. Trigger with phrases like "architecture doc creator", "architecture creator", "architecture".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Architecture Doc Creator

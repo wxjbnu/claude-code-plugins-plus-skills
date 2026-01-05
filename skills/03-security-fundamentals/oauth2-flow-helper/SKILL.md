@@ -1,13 +1,13 @@
 ---
-name: oauth2-flow-helper
+name: "oauth2-flow-helper"
 description: |
   Oauth2 Flow Helper - Auto-activating skill for Security Fundamentals.
   Triggers on: oauth2 flow helper, oauth2 flow helper
-  Part of the Security Fundamentals skill category.
-allowed-tools: Read, Write, Grep, Bash(npm:*)
+  Part of the Security Fundamentals skill category. Use when working with oauth2 flow helper functionality. Trigger with phrases like "oauth2 flow helper", "oauth2 helper", "oauth2".
+allowed-tools: "Read, Write, Grep, Bash(npm:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Oauth2 Flow Helper

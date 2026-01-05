@@ -1,13 +1,13 @@
 ---
-name: gitlab-epic-creator
+name: "gitlab-epic-creator"
 description: |
   Gitlab Epic Creator - Auto-activating skill for Enterprise Workflows.
   Triggers on: gitlab epic creator, gitlab epic creator
-  Part of the Enterprise Workflows skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Enterprise Workflows skill category. Use when working with gitlab epic creator functionality. Trigger with phrases like "gitlab epic creator", "gitlab creator", "gitlab".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Gitlab Epic Creator

@@ -1,13 +1,13 @@
 ---
-name: org-chart-creator
+name: "org-chart-creator"
 description: |
   Org Chart Creator - Auto-activating skill for Visual Content.
   Triggers on: org chart creator, org chart creator
-  Part of the Visual Content skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Visual Content skill category. Use when working with org chart creator functionality. Trigger with phrases like "org chart creator", "org creator", "org".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Org Chart Creator

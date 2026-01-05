@@ -1,12 +1,12 @@
 ---
-name: cursor-reference-architecture
+name: "cursor-reference-architecture"
 description: |
   Reference architecture patterns for Cursor IDE projects. Triggers on "cursor architecture",
-  "cursor project structure", "cursor best practices", "cursor team setup".
-allowed-tools: Read, Write, Edit, Bash
+  "cursor project structure", "cursor best practices", "cursor team setup". Use when working with cursor reference architecture functionality. Trigger with phrases like "cursor reference architecture", "cursor architecture", "cursor".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Cursor Reference Architecture

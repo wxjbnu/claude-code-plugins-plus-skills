@@ -1,13 +1,13 @@
 ---
-name: learning-rate-scheduler
+name: "learning-rate-scheduler"
 description: |
   Learning Rate Scheduler - Auto-activating skill for ML Training.
   Triggers on: learning rate scheduler, learning rate scheduler
-  Part of the ML Training skill category.
-allowed-tools: Read, Write, Edit, Bash(python:*), Bash(pip:*)
+  Part of the ML Training skill category. Use when working with learning rate scheduler functionality. Trigger with phrases like "learning rate scheduler", "learning scheduler", "learning".
+allowed-tools: "Read, Write, Edit, Bash(python:*), Bash(pip:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Learning Rate Scheduler

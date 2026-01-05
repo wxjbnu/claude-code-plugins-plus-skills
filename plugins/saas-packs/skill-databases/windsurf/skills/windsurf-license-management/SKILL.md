@@ -1,13 +1,13 @@
 ---
-name: windsurf-license-management
+name: "windsurf-license-management"
 description: |
   Manage Windsurf licenses and seat allocation. Activate when users mention
   "license management", "seat allocation", "billing optimization", "user licenses",
-  or "subscription management". Handles license administration.
+  or "subscription management". Handles license administration. Use when working with windsurf license management functionality. Trigger with phrases like "windsurf license management", "windsurf management", "windsurf".
 allowed-tools: Read,Write,Edit
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Windsurf License Management

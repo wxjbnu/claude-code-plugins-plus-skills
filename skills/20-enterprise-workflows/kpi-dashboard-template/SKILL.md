@@ -1,13 +1,13 @@
 ---
-name: kpi-dashboard-template
+name: "kpi-dashboard-template"
 description: |
   Kpi Dashboard Template - Auto-activating skill for Enterprise Workflows.
   Triggers on: kpi dashboard template, kpi dashboard template
-  Part of the Enterprise Workflows skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Enterprise Workflows skill category. Use when working with kpi dashboard template functionality. Trigger with phrases like "kpi dashboard template", "kpi template", "kpi".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Kpi Dashboard Template

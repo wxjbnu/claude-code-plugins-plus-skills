@@ -1,13 +1,13 @@
 ---
-name: pre-commit-hook-setup
+name: "pre-commit-hook-setup"
 description: |
   Pre Commit Hook Setup - Auto-activating skill for DevOps Basics.
   Triggers on: pre commit hook setup, pre commit hook setup
-  Part of the DevOps Basics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Basics skill category. Use when working with pre commit hook setup functionality. Trigger with phrases like "pre commit hook setup", "pre setup", "pre".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Pre Commit Hook Setup

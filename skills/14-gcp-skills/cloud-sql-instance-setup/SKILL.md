@@ -1,13 +1,13 @@
 ---
-name: cloud-sql-instance-setup
+name: "cloud-sql-instance-setup"
 description: |
   Cloud Sql Instance Setup - Auto-activating skill for GCP Skills.
   Triggers on: cloud sql instance setup, cloud sql instance setup
-  Part of the GCP Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(gcloud:*)
+  Part of the GCP Skills skill category. Use when working with cloud sql instance setup functionality. Trigger with phrases like "cloud sql instance setup", "cloud setup", "cloud".
+allowed-tools: "Read, Write, Edit, Bash(gcloud:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Cloud Sql Instance Setup

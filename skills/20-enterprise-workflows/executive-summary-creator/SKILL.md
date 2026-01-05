@@ -1,13 +1,13 @@
 ---
-name: executive-summary-creator
+name: "executive-summary-creator"
 description: |
   Executive Summary Creator - Auto-activating skill for Enterprise Workflows.
   Triggers on: executive summary creator, executive summary creator
-  Part of the Enterprise Workflows skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Enterprise Workflows skill category. Use when working with executive summary creator functionality. Trigger with phrases like "executive summary creator", "executive creator", "executive".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Executive Summary Creator

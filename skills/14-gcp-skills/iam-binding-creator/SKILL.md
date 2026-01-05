@@ -1,13 +1,13 @@
 ---
-name: iam-binding-creator
+name: "iam-binding-creator"
 description: |
   Iam Binding Creator - Auto-activating skill for GCP Skills.
   Triggers on: iam binding creator, iam binding creator
-  Part of the GCP Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(gcloud:*)
+  Part of the GCP Skills skill category. Use when working with iam binding creator functionality. Trigger with phrases like "iam binding creator", "iam creator", "iam".
+allowed-tools: "Read, Write, Edit, Bash(gcloud:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Iam Binding Creator

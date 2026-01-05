@@ -1,13 +1,13 @@
 ---
-name: airflow-operator-creator
+name: "airflow-operator-creator"
 description: |
   Airflow Operator Creator - Auto-activating skill for Data Pipelines.
   Triggers on: airflow operator creator, airflow operator creator
-  Part of the Data Pipelines skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Pipelines skill category. Use when working with airflow operator creator functionality. Trigger with phrases like "airflow operator creator", "airflow creator", "airflow".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Airflow Operator Creator

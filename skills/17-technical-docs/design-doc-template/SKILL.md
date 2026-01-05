@@ -1,13 +1,13 @@
 ---
-name: design-doc-template
+name: "design-doc-template"
 description: |
   Design Doc Template - Auto-activating skill for Technical Documentation.
   Triggers on: design doc template, design doc template
-  Part of the Technical Documentation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Technical Documentation skill category. Use when working with design doc template functionality. Trigger with phrases like "design doc template", "design template", "design".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Design Doc Template

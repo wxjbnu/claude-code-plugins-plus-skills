@@ -1,13 +1,13 @@
 ---
-name: impact-analysis-helper
+name: "impact-analysis-helper"
 description: |
   Impact Analysis Helper - Auto-activating skill for Enterprise Workflows.
   Triggers on: impact analysis helper, impact analysis helper
-  Part of the Enterprise Workflows skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Enterprise Workflows skill category. Use when working with impact analysis helper functionality. Trigger with phrases like "impact analysis helper", "impact helper", "impact".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Impact Analysis Helper

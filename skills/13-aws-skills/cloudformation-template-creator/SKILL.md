@@ -1,13 +1,13 @@
 ---
-name: cloudformation-template-creator
+name: "cloudformation-template-creator"
 description: |
   Cloudformation Template Creator - Auto-activating skill for AWS Skills.
   Triggers on: cloudformation template creator, cloudformation template creator
-  Part of the AWS Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(aws:*)
+  Part of the AWS Skills skill category. Use when working with cloudformation template creator functionality. Trigger with phrases like "cloudformation template creator", "cloudformation creator", "cloudformation".
+allowed-tools: "Read, Write, Edit, Bash(aws:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Cloudformation Template Creator

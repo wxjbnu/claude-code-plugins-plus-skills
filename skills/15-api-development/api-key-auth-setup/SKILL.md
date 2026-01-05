@@ -1,13 +1,13 @@
 ---
-name: api-key-auth-setup
+name: "api-key-auth-setup"
 description: |
   Api Key Auth Setup - Auto-activating skill for API Development.
   Triggers on: api key auth setup, api key auth setup
-  Part of the API Development skill category.
-allowed-tools: Read, Write, Edit, Bash(curl:*), Grep
+  Part of the API Development skill category. Use when working with APIs or building integrations. Trigger with phrases like "api key auth setup", "api setup", "api".
+allowed-tools: "Read, Write, Edit, Bash(curl:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Api Key Auth Setup

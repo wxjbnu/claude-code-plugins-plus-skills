@@ -1,13 +1,13 @@
 ---
-name: thread-dump-analyzer
+name: "thread-dump-analyzer"
 description: |
   Thread Dump Analyzer - Auto-activating skill for Performance Testing.
   Triggers on: thread dump analyzer, thread dump analyzer
-  Part of the Performance Testing skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Performance Testing skill category. Use when analyzing or auditing thread dump analyzer. Trigger with phrases like "thread dump analyzer", "thread analyzer", "analyze thread dump r".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Thread Dump Analyzer

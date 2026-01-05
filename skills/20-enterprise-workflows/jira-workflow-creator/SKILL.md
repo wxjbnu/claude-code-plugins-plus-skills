@@ -1,13 +1,13 @@
 ---
-name: jira-workflow-creator
+name: "jira-workflow-creator"
 description: |
   Jira Workflow Creator - Auto-activating skill for Enterprise Workflows.
   Triggers on: jira workflow creator, jira workflow creator
-  Part of the Enterprise Workflows skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Enterprise Workflows skill category. Use when working with jira workflow creator functionality. Trigger with phrases like "jira workflow creator", "jira creator", "jira".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Jira Workflow Creator

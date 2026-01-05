@@ -1,13 +1,13 @@
 ---
-name: onnx-converter
+name: "onnx-converter"
 description: |
   Onnx Converter - Auto-activating skill for ML Deployment.
   Triggers on: onnx converter, onnx converter
-  Part of the ML Deployment skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the ML Deployment skill category. Use when working with onnx converter functionality. Trigger with phrases like "onnx converter", "onnx converter", "onnx".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Onnx Converter

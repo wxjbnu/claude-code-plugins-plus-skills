@@ -1,13 +1,13 @@
 ---
-name: security-policy-generator
+name: "security-policy-generator"
 description: |
   Security Policy Generator - Auto-activating skill for Security Advanced.
   Triggers on: security policy generator, security policy generator
-  Part of the Security Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Security Advanced skill category. Use when working with security policy generator functionality. Trigger with phrases like "security policy generator", "security generator", "security".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Security Policy Generator

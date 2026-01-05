@@ -1,13 +1,13 @@
 ---
-name: gdpr-compliance-scanner
+name: "gdpr-compliance-scanner"
 description: |
   Gdpr Compliance Scanner - Auto-activating skill for Security Advanced.
   Triggers on: gdpr compliance scanner, gdpr compliance scanner
-  Part of the Security Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Security Advanced skill category. Use when working with gdpr compliance scanner functionality. Trigger with phrases like "gdpr compliance scanner", "gdpr scanner", "gdpr".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Gdpr Compliance Scanner

@@ -1,13 +1,13 @@
 ---
-name: helm-values-manager
+name: "helm-values-manager"
 description: |
   Helm Values Manager - Auto-activating skill for DevOps Advanced.
   Triggers on: helm values manager, helm values manager
-  Part of the DevOps Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Advanced skill category. Use when working with helm values manager functionality. Trigger with phrases like "helm values manager", "helm manager", "helm".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Helm Values Manager

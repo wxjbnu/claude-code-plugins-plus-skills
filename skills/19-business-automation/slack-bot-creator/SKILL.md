@@ -1,13 +1,13 @@
 ---
-name: slack-bot-creator
+name: "slack-bot-creator"
 description: |
   Slack Bot Creator - Auto-activating skill for Business Automation.
   Triggers on: slack bot creator, slack bot creator
-  Part of the Business Automation skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Business Automation skill category. Use when working with slack bot creator functionality. Trigger with phrases like "slack bot creator", "slack creator", "slack".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Slack Bot Creator

@@ -1,13 +1,13 @@
 ---
-name: fastapi-ml-endpoint
+name: "fastapi-ml-endpoint"
 description: |
   Fastapi Ml Endpoint - Auto-activating skill for ML Deployment.
   Triggers on: fastapi ml endpoint, fastapi ml endpoint
-  Part of the ML Deployment skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the ML Deployment skill category. Use when working with APIs or building integrations. Trigger with phrases like "fastapi ml endpoint", "fastapi endpoint", "fastapi".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Fastapi Ml Endpoint

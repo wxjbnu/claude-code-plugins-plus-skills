@@ -1,13 +1,13 @@
 ---
-name: env-secret-detector
+name: "env-secret-detector"
 description: |
   Env Secret Detector - Auto-activating skill for Security Fundamentals.
   Triggers on: env secret detector, env secret detector
-  Part of the Security Fundamentals skill category.
-allowed-tools: Read, Write, Grep, Bash(npm:*)
+  Part of the Security Fundamentals skill category. Use when working with env secret detector functionality. Trigger with phrases like "env secret detector", "env detector", "env".
+allowed-tools: "Read, Write, Grep, Bash(npm:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Env Secret Detector

@@ -1,13 +1,13 @@
 ---
-name: coverage-report-analyzer
+name: "coverage-report-analyzer"
 description: |
   Coverage Report Analyzer - Auto-activating skill for Test Automation.
   Triggers on: coverage report analyzer, coverage report analyzer
-  Part of the Test Automation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Test Automation skill category. Use when analyzing or auditing coverage report analyzer. Trigger with phrases like "coverage report analyzer", "coverage analyzer", "analyze coverage report r".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Coverage Report Analyzer

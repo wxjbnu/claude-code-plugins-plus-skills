@@ -1,13 +1,13 @@
 ---
-name: performance-lighthouse-runner
+name: "performance-lighthouse-runner"
 description: |
   Performance Lighthouse Runner - Auto-activating skill for Frontend Development.
   Triggers on: performance lighthouse runner, performance lighthouse runner
-  Part of the Frontend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Frontend Development skill category. Use when working with performance lighthouse runner functionality. Trigger with phrases like "performance lighthouse runner", "performance runner", "performance".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Performance Lighthouse Runner

@@ -1,13 +1,13 @@
 ---
-name: input-validation-checker
+name: "input-validation-checker"
 description: |
   Input Validation Checker - Auto-activating skill for Security Fundamentals.
   Triggers on: input validation checker, input validation checker
-  Part of the Security Fundamentals skill category.
-allowed-tools: Read, Write, Grep, Bash(npm:*)
+  Part of the Security Fundamentals skill category. Use when working with input validation checker functionality. Trigger with phrases like "input validation checker", "input checker", "input".
+allowed-tools: "Read, Write, Grep, Bash(npm:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Input Validation Checker

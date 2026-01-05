@@ -1,13 +1,13 @@
 ---
-name: windsurf-usage-analytics
+name: "windsurf-usage-analytics"
 description: |
   Analyze team AI usage patterns and productivity metrics. Activate when users mention
   "usage analytics", "ai metrics", "productivity tracking", "usage reports",
-  or "roi analysis". Handles analytics and reporting configuration.
+  or "roi analysis". Handles analytics and reporting configuration. Use when working with windsurf usage analytics functionality. Trigger with phrases like "windsurf usage analytics", "windsurf analytics", "windsurf".
 allowed-tools: Read,Grep,Glob
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Windsurf Usage Analytics

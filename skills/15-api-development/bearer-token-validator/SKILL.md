@@ -1,13 +1,13 @@
 ---
-name: bearer-token-validator
+name: "bearer-token-validator"
 description: |
   Bearer Token Validator - Auto-activating skill for API Development.
   Triggers on: bearer token validator, bearer token validator
-  Part of the API Development skill category.
-allowed-tools: Read, Write, Edit, Bash(curl:*), Grep
+  Part of the API Development skill category. Use when working with bearer token validator functionality. Trigger with phrases like "bearer token validator", "bearer validator", "bearer".
+allowed-tools: "Read, Write, Edit, Bash(curl:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Bearer Token Validator

@@ -1,13 +1,13 @@
 ---
-name: pci-dss-validator
+name: "pci-dss-validator"
 description: |
   Pci Dss Validator - Auto-activating skill for Security Advanced.
   Triggers on: pci dss validator, pci dss validator
-  Part of the Security Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Security Advanced skill category. Use when working with pci dss validator functionality. Trigger with phrases like "pci dss validator", "pci validator", "pci".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Pci Dss Validator

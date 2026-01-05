@@ -1,13 +1,13 @@
 ---
-name: bigquery-scheduled-query
+name: "bigquery-scheduled-query"
 description: |
   Bigquery Scheduled Query - Auto-activating skill for GCP Skills.
   Triggers on: bigquery scheduled query, bigquery scheduled query
-  Part of the GCP Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(gcloud:*)
+  Part of the GCP Skills skill category. Use when working with bigquery scheduled query functionality. Trigger with phrases like "bigquery scheduled query", "bigquery query", "bigquery".
+allowed-tools: "Read, Write, Edit, Bash(gcloud:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Bigquery Scheduled Query

@@ -1,13 +1,13 @@
 ---
-name: data-partitioner
+name: "data-partitioner"
 description: |
   Data Partitioner - Auto-activating skill for Data Pipelines.
   Triggers on: data partitioner, data partitioner
-  Part of the Data Pipelines skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Pipelines skill category. Use when working with data partitioner functionality. Trigger with phrases like "data partitioner", "data partitioner", "data".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Data Partitioner

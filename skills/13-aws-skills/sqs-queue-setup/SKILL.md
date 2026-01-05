@@ -1,13 +1,13 @@
 ---
-name: sqs-queue-setup
+name: "sqs-queue-setup"
 description: |
   Sqs Queue Setup - Auto-activating skill for AWS Skills.
   Triggers on: sqs queue setup, sqs queue setup
-  Part of the AWS Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(aws:*)
+  Part of the AWS Skills skill category. Use when working with sqs queue setup functionality. Trigger with phrases like "sqs queue setup", "sqs setup", "sqs".
+allowed-tools: "Read, Write, Edit, Bash(aws:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Sqs Queue Setup

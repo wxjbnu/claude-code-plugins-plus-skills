@@ -1,13 +1,13 @@
 ---
-name: cross-validation-setup
+name: "cross-validation-setup"
 description: |
   Cross Validation Setup - Auto-activating skill for ML Training.
   Triggers on: cross validation setup, cross validation setup
-  Part of the ML Training skill category.
-allowed-tools: Read, Write, Edit, Bash(python:*), Bash(pip:*)
+  Part of the ML Training skill category. Use when working with cross validation setup functionality. Trigger with phrases like "cross validation setup", "cross setup", "cross".
+allowed-tools: "Read, Write, Edit, Bash(python:*), Bash(pip:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Cross Validation Setup

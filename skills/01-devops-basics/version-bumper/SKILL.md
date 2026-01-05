@@ -1,13 +1,13 @@
 ---
-name: version-bumper
+name: "version-bumper"
 description: |
   Version Bumper - Auto-activating skill for DevOps Basics.
   Triggers on: version bumper, version bumper
-  Part of the DevOps Basics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Basics skill category. Use when working with version bumper functionality. Trigger with phrases like "version bumper", "version bumper", "version".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Version Bumper

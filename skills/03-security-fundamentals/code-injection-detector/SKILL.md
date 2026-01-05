@@ -1,13 +1,13 @@
 ---
-name: code-injection-detector
+name: "code-injection-detector"
 description: |
   Code Injection Detector - Auto-activating skill for Security Fundamentals.
   Triggers on: code injection detector, code injection detector
-  Part of the Security Fundamentals skill category.
-allowed-tools: Read, Write, Grep, Bash(npm:*)
+  Part of the Security Fundamentals skill category. Use when working with code injection detector functionality. Trigger with phrases like "code injection detector", "code detector", "code".
+allowed-tools: "Read, Write, Grep, Bash(npm:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Code Injection Detector

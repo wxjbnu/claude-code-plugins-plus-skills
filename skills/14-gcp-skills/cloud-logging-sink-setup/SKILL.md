@@ -1,13 +1,13 @@
 ---
-name: cloud-logging-sink-setup
+name: "cloud-logging-sink-setup"
 description: |
   Cloud Logging Sink Setup - Auto-activating skill for GCP Skills.
   Triggers on: cloud logging sink setup, cloud logging sink setup
-  Part of the GCP Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(gcloud:*)
+  Part of the GCP Skills skill category. Use when working with cloud logging sink setup functionality. Trigger with phrases like "cloud logging sink setup", "cloud setup", "cloud".
+allowed-tools: "Read, Write, Edit, Bash(gcloud:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Cloud Logging Sink Setup

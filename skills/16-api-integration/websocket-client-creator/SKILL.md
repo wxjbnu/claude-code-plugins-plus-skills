@@ -1,13 +1,13 @@
 ---
-name: websocket-client-creator
+name: "websocket-client-creator"
 description: |
   Websocket Client Creator - Auto-activating skill for API Integration.
   Triggers on: websocket client creator, websocket client creator
-  Part of the API Integration skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the API Integration skill category. Use when working with websocket client creator functionality. Trigger with phrases like "websocket client creator", "websocket creator", "websocket".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Websocket Client Creator

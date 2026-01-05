@@ -1,13 +1,13 @@
 ---
-name: sql-migration-generator
+name: "sql-migration-generator"
 description: |
   Sql Migration Generator - Auto-activating skill for Backend Development.
   Triggers on: sql migration generator, sql migration generator
-  Part of the Backend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Backend Development skill category. Use when working with sql migration generator functionality. Trigger with phrases like "sql migration generator", "sql generator", "sql".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Sql Migration Generator

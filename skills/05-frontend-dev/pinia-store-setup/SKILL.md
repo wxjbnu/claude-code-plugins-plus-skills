@@ -1,13 +1,13 @@
 ---
-name: pinia-store-setup
+name: "pinia-store-setup"
 description: |
   Pinia Store Setup - Auto-activating skill for Frontend Development.
   Triggers on: pinia store setup, pinia store setup
-  Part of the Frontend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Frontend Development skill category. Use when working with pinia store setup functionality. Trigger with phrases like "pinia store setup", "pinia setup", "pinia".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Pinia Store Setup

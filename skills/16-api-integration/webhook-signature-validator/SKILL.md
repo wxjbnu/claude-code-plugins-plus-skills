@@ -1,13 +1,13 @@
 ---
-name: webhook-signature-validator
+name: "webhook-signature-validator"
 description: |
   Webhook Signature Validator - Auto-activating skill for API Integration.
   Triggers on: webhook signature validator, webhook signature validator
-  Part of the API Integration skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the API Integration skill category. Use when working with webhook signature validator functionality. Trigger with phrases like "webhook signature validator", "webhook validator", "webhook".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Webhook Signature Validator

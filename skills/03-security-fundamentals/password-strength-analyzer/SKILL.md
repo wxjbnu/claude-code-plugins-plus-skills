@@ -1,13 +1,13 @@
 ---
-name: password-strength-analyzer
+name: "password-strength-analyzer"
 description: |
   Password Strength Analyzer - Auto-activating skill for Security Fundamentals.
   Triggers on: password strength analyzer, password strength analyzer
-  Part of the Security Fundamentals skill category.
-allowed-tools: Read, Write, Grep, Bash(npm:*)
+  Part of the Security Fundamentals skill category. Use when analyzing or auditing password strength analyzer. Trigger with phrases like "password strength analyzer", "password analyzer", "analyze password strength r".
+allowed-tools: "Read, Write, Grep, Bash(npm:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Password Strength Analyzer

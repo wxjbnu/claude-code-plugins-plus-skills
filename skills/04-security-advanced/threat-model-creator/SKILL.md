@@ -1,13 +1,13 @@
 ---
-name: threat-model-creator
+name: "threat-model-creator"
 description: |
   Threat Model Creator - Auto-activating skill for Security Advanced.
   Triggers on: threat model creator, threat model creator
-  Part of the Security Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Security Advanced skill category. Use when working with threat model creator functionality. Trigger with phrases like "threat model creator", "threat creator", "threat".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Threat Model Creator

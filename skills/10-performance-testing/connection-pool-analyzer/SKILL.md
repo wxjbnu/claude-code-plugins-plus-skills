@@ -1,13 +1,13 @@
 ---
-name: connection-pool-analyzer
+name: "connection-pool-analyzer"
 description: |
   Connection Pool Analyzer - Auto-activating skill for Performance Testing.
   Triggers on: connection pool analyzer, connection pool analyzer
-  Part of the Performance Testing skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Performance Testing skill category. Use when analyzing or auditing connection pool analyzer. Trigger with phrases like "connection pool analyzer", "connection analyzer", "analyze connection pool r".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Connection Pool Analyzer

@@ -1,13 +1,13 @@
 ---
-name: confluence-page-generator
+name: "confluence-page-generator"
 description: |
   Confluence Page Generator - Auto-activating skill for Enterprise Workflows.
   Triggers on: confluence page generator, confluence page generator
-  Part of the Enterprise Workflows skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Enterprise Workflows skill category. Use when working with confluence page generator functionality. Trigger with phrases like "confluence page generator", "confluence generator", "confluence".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Confluence Page Generator

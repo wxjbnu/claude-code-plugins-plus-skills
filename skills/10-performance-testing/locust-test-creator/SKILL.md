@@ -1,13 +1,13 @@
 ---
-name: locust-test-creator
+name: "locust-test-creator"
 description: |
   Locust Test Creator - Auto-activating skill for Performance Testing.
   Triggers on: locust test creator, locust test creator
-  Part of the Performance Testing skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Performance Testing skill category. Use when writing or running tests. Trigger with phrases like "locust test creator", "locust creator", "locust".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Locust Test Creator

@@ -1,13 +1,13 @@
 ---
-name: streaming-inference-setup
+name: "streaming-inference-setup"
 description: |
   Streaming Inference Setup - Auto-activating skill for ML Deployment.
   Triggers on: streaming inference setup, streaming inference setup
-  Part of the ML Deployment skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the ML Deployment skill category. Use when working with streaming inference setup functionality. Trigger with phrases like "streaming inference setup", "streaming setup", "streaming".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Streaming Inference Setup

@@ -1,13 +1,13 @@
 ---
-name: vertex-ai-pipeline-creator
+name: "vertex-ai-pipeline-creator"
 description: |
   Vertex Ai Pipeline Creator - Auto-activating skill for GCP Skills.
   Triggers on: vertex ai pipeline creator, vertex ai pipeline creator
-  Part of the GCP Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(gcloud:*)
+  Part of the GCP Skills skill category. Use when working with vertex ai pipeline creator functionality. Trigger with phrases like "vertex ai pipeline creator", "vertex creator", "vertex".
+allowed-tools: "Read, Write, Edit, Bash(gcloud:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Vertex Ai Pipeline Creator

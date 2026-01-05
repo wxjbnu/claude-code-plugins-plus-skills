@@ -1,13 +1,13 @@
 ---
-name: https-certificate-checker
+name: "https-certificate-checker"
 description: |
   Https Certificate Checker - Auto-activating skill for Security Fundamentals.
   Triggers on: https certificate checker, https certificate checker
-  Part of the Security Fundamentals skill category.
-allowed-tools: Read, Write, Grep, Bash(npm:*)
+  Part of the Security Fundamentals skill category. Use when working with https certificate checker functionality. Trigger with phrases like "https certificate checker", "https checker", "https".
+allowed-tools: "Read, Write, Grep, Bash(npm:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Https Certificate Checker

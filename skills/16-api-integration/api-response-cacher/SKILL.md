@@ -1,13 +1,13 @@
 ---
-name: api-response-cacher
+name: "api-response-cacher"
 description: |
   Api Response Cacher - Auto-activating skill for API Integration.
   Triggers on: api response cacher, api response cacher
-  Part of the API Integration skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the API Integration skill category. Use when working with APIs or building integrations. Trigger with phrases like "api response cacher", "api cacher", "api".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Api Response Cacher

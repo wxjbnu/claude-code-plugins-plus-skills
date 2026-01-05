@@ -1,13 +1,13 @@
 ---
-name: http-client-config
+name: "http-client-config"
 description: |
   Http Client Config - Auto-activating skill for API Integration.
   Triggers on: http client config, http client config
-  Part of the API Integration skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the API Integration skill category. Use when configuring systems or services. Trigger with phrases like "http client config", "http config", "http".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Http Client Config

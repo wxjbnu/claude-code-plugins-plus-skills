@@ -1,13 +1,13 @@
 ---
-name: confusion-matrix-generator
+name: "confusion-matrix-generator"
 description: |
   Confusion Matrix Generator - Auto-activating skill for ML Training.
   Triggers on: confusion matrix generator, confusion matrix generator
-  Part of the ML Training skill category.
-allowed-tools: Read, Write, Edit, Bash(python:*), Bash(pip:*)
+  Part of the ML Training skill category. Use when working with confusion matrix generator functionality. Trigger with phrases like "confusion matrix generator", "confusion generator", "confusion".
+allowed-tools: "Read, Write, Edit, Bash(python:*), Bash(pip:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Confusion Matrix Generator

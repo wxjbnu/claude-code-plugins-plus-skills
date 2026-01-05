@@ -1,13 +1,13 @@
 ---
-name: incident-response-planner
+name: "incident-response-planner"
 description: |
   Incident Response Planner - Auto-activating skill for Security Advanced.
   Triggers on: incident response planner, incident response planner
-  Part of the Security Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Security Advanced skill category. Use when working with incident response planner functionality. Trigger with phrases like "incident response planner", "incident planner", "incident".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Incident Response Planner

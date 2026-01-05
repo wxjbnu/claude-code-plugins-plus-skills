@@ -1,13 +1,13 @@
 ---
-name: changelog-generator
+name: "changelog-generator"
 description: |
   Changelog Generator - Auto-activating skill for Technical Documentation.
   Triggers on: changelog generator, changelog generator
-  Part of the Technical Documentation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Technical Documentation skill category. Use when working with changelog generator functionality. Trigger with phrases like "changelog generator", "changelog generator", "changelog".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Changelog Generator

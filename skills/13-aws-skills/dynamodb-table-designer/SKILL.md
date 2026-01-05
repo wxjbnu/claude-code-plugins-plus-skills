@@ -1,13 +1,13 @@
 ---
-name: dynamodb-table-designer
+name: "dynamodb-table-designer"
 description: |
   Dynamodb Table Designer - Auto-activating skill for AWS Skills.
   Triggers on: dynamodb table designer, dynamodb table designer
-  Part of the AWS Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(aws:*)
+  Part of the AWS Skills skill category. Use when working with dynamodb table designer functionality. Trigger with phrases like "dynamodb table designer", "dynamodb designer", "dynamodb".
+allowed-tools: "Read, Write, Edit, Bash(aws:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Dynamodb Table Designer

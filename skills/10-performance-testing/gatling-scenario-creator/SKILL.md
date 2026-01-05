@@ -1,13 +1,13 @@
 ---
-name: gatling-scenario-creator
+name: "gatling-scenario-creator"
 description: |
   Gatling Scenario Creator - Auto-activating skill for Performance Testing.
   Triggers on: gatling scenario creator, gatling scenario creator
-  Part of the Performance Testing skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Performance Testing skill category. Use when working with gatling scenario creator functionality. Trigger with phrases like "gatling scenario creator", "gatling creator", "gatling".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Gatling Scenario Creator

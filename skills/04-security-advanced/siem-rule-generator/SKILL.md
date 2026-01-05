@@ -1,13 +1,13 @@
 ---
-name: siem-rule-generator
+name: "siem-rule-generator"
 description: |
   Siem Rule Generator - Auto-activating skill for Security Advanced.
   Triggers on: siem rule generator, siem rule generator
-  Part of the Security Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Security Advanced skill category. Use when working with siem rule generator functionality. Trigger with phrases like "siem rule generator", "siem generator", "siem".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Siem Rule Generator

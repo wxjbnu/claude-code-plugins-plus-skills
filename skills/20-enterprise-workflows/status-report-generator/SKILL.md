@@ -1,13 +1,13 @@
 ---
-name: status-report-generator
+name: "status-report-generator"
 description: |
   Status Report Generator - Auto-activating skill for Enterprise Workflows.
   Triggers on: status report generator, status report generator
-  Part of the Enterprise Workflows skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Enterprise Workflows skill category. Use when working with status report generator functionality. Trigger with phrases like "status report generator", "status generator", "status".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Status Report Generator

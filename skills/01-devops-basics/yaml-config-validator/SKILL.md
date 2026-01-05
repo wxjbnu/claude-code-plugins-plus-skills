@@ -1,13 +1,13 @@
 ---
-name: yaml-config-validator
+name: "yaml-config-validator"
 description: |
   Yaml Config Validator - Auto-activating skill for DevOps Basics.
   Triggers on: yaml config validator, yaml config validator
-  Part of the DevOps Basics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Basics skill category. Use when configuring systems or services. Trigger with phrases like "yaml config validator", "yaml validator", "yaml".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Yaml Config Validator

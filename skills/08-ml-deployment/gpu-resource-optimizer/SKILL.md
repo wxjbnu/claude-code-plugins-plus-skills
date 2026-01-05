@@ -1,13 +1,13 @@
 ---
-name: gpu-resource-optimizer
+name: "gpu-resource-optimizer"
 description: |
   Gpu Resource Optimizer - Auto-activating skill for ML Deployment.
   Triggers on: gpu resource optimizer, gpu resource optimizer
-  Part of the ML Deployment skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the ML Deployment skill category. Use when working with gpu resource optimizer functionality. Trigger with phrases like "gpu resource optimizer", "gpu optimizer", "gpu".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Gpu Resource Optimizer

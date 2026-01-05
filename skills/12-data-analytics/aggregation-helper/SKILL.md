@@ -1,13 +1,13 @@
 ---
-name: aggregation-helper
+name: "aggregation-helper"
 description: |
   Aggregation Helper - Auto-activating skill for Data Analytics.
   Triggers on: aggregation helper, aggregation helper
-  Part of the Data Analytics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Analytics skill category. Use when working with aggregation helper functionality. Trigger with phrases like "aggregation helper", "aggregation helper", "aggregation".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Aggregation Helper

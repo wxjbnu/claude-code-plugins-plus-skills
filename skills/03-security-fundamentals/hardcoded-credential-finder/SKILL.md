@@ -1,13 +1,13 @@
 ---
-name: hardcoded-credential-finder
+name: "hardcoded-credential-finder"
 description: |
   Hardcoded Credential Finder - Auto-activating skill for Security Fundamentals.
   Triggers on: hardcoded credential finder, hardcoded credential finder
-  Part of the Security Fundamentals skill category.
-allowed-tools: Read, Write, Grep, Bash(npm:*)
+  Part of the Security Fundamentals skill category. Use when working with hardcoded credential finder functionality. Trigger with phrases like "hardcoded credential finder", "hardcoded finder", "hardcoded".
+allowed-tools: "Read, Write, Grep, Bash(npm:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Hardcoded Credential Finder

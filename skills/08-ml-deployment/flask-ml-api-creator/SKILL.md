@@ -1,13 +1,13 @@
 ---
-name: flask-ml-api-creator
+name: "flask-ml-api-creator"
 description: |
   Flask Ml Api Creator - Auto-activating skill for ML Deployment.
   Triggers on: flask ml api creator, flask ml api creator
-  Part of the ML Deployment skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the ML Deployment skill category. Use when working with APIs or building integrations. Trigger with phrases like "flask ml api creator", "flask creator", "flask".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Flask Ml Api Creator

@@ -1,13 +1,13 @@
 ---
-name: canary-deployment-setup
+name: "canary-deployment-setup"
 description: |
   Canary Deployment Setup - Auto-activating skill for ML Deployment.
   Triggers on: canary deployment setup, canary deployment setup
-  Part of the ML Deployment skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the ML Deployment skill category. Use when deploying applications or services. Trigger with phrases like "canary deployment setup", "canary setup", "deploy canary ment setup".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Canary Deployment Setup

@@ -1,13 +1,13 @@
 ---
-name: gke-cluster-config
+name: "gke-cluster-config"
 description: |
   Gke Cluster Config - Auto-activating skill for GCP Skills.
   Triggers on: gke cluster config, gke cluster config
-  Part of the GCP Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(gcloud:*)
+  Part of the GCP Skills skill category. Use when configuring systems or services. Trigger with phrases like "gke cluster config", "gke config", "gke".
+allowed-tools: "Read, Write, Edit, Bash(gcloud:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Gke Cluster Config

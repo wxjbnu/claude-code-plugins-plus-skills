@@ -1,13 +1,13 @@
 ---
-name: hypermedia-link-generator
+name: "hypermedia-link-generator"
 description: |
   Hypermedia Link Generator - Auto-activating skill for API Development.
   Triggers on: hypermedia link generator, hypermedia link generator
-  Part of the API Development skill category.
-allowed-tools: Read, Write, Edit, Bash(curl:*), Grep
+  Part of the API Development skill category. Use when working with hypermedia link generator functionality. Trigger with phrases like "hypermedia link generator", "hypermedia generator", "hypermedia".
+allowed-tools: "Read, Write, Edit, Bash(curl:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Hypermedia Link Generator

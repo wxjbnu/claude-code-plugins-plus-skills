@@ -1,12 +1,12 @@
 ---
-name: cursor-ai-chat
+name: "cursor-ai-chat"
 description: |
   Master Cursor AI chat interface for code assistance. Triggers on "cursor chat",
-  "cursor ai chat", "ask cursor", "cursor conversation", "chat with cursor".
-allowed-tools: Read, Write, Edit, Bash
+  "cursor ai chat", "ask cursor", "cursor conversation", "chat with cursor". Use when working with cursor ai chat functionality. Trigger with phrases like "cursor ai chat", "cursor chat", "cursor".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Cursor AI Chat Mastery

@@ -1,13 +1,13 @@
 ---
-name: response-transformer
+name: "response-transformer"
 description: |
   Response Transformer - Auto-activating skill for API Integration.
   Triggers on: response transformer, response transformer
-  Part of the API Integration skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the API Integration skill category. Use when working with response transformer functionality. Trigger with phrases like "response transformer", "response transformer", "response".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Response Transformer

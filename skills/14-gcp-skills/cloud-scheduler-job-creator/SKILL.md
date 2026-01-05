@@ -1,13 +1,13 @@
 ---
-name: cloud-scheduler-job-creator
+name: "cloud-scheduler-job-creator"
 description: |
   Cloud Scheduler Job Creator - Auto-activating skill for GCP Skills.
   Triggers on: cloud scheduler job creator, cloud scheduler job creator
-  Part of the GCP Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(gcloud:*)
+  Part of the GCP Skills skill category. Use when working with cloud scheduler job creator functionality. Trigger with phrases like "cloud scheduler job creator", "cloud creator", "cloud".
+allowed-tools: "Read, Write, Edit, Bash(gcloud:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Cloud Scheduler Job Creator

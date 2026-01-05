@@ -1,13 +1,13 @@
 ---
-name: lazy-loading-implementer
+name: "lazy-loading-implementer"
 description: |
   Lazy Loading Implementer - Auto-activating skill for Frontend Development.
   Triggers on: lazy loading implementer, lazy loading implementer
-  Part of the Frontend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Frontend Development skill category. Use when working with lazy loading implementer functionality. Trigger with phrases like "lazy loading implementer", "lazy implementer", "lazy".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Lazy Loading Implementer

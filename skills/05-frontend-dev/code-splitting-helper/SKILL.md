@@ -1,13 +1,13 @@
 ---
-name: code-splitting-helper
+name: "code-splitting-helper"
 description: |
   Code Splitting Helper - Auto-activating skill for Frontend Development.
   Triggers on: code splitting helper, code splitting helper
-  Part of the Frontend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Frontend Development skill category. Use when working with code splitting helper functionality. Trigger with phrases like "code splitting helper", "code helper", "code".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Code Splitting Helper

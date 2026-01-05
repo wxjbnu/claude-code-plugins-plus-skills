@@ -1,13 +1,13 @@
 ---
-name: batch-inference-pipeline
+name: "batch-inference-pipeline"
 description: |
   Batch Inference Pipeline - Auto-activating skill for ML Deployment.
   Triggers on: batch inference pipeline, batch inference pipeline
-  Part of the ML Deployment skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the ML Deployment skill category. Use when working with batch inference pipeline functionality. Trigger with phrases like "batch inference pipeline", "batch pipeline", "batch".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Batch Inference Pipeline

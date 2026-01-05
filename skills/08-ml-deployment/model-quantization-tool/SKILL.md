@@ -1,13 +1,13 @@
 ---
-name: model-quantization-tool
+name: "model-quantization-tool"
 description: |
   Model Quantization Tool - Auto-activating skill for ML Deployment.
   Triggers on: model quantization tool, model quantization tool
-  Part of the ML Deployment skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the ML Deployment skill category. Use when working with model quantization tool functionality. Trigger with phrases like "model quantization tool", "model tool", "model".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Model Quantization Tool

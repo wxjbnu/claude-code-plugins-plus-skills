@@ -1,13 +1,13 @@
 ---
-name: notification-dispatcher
+name: "notification-dispatcher"
 description: |
   Notification Dispatcher - Auto-activating skill for Business Automation.
   Triggers on: notification dispatcher, notification dispatcher
-  Part of the Business Automation skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Business Automation skill category. Use when working with notification dispatcher functionality. Trigger with phrases like "notification dispatcher", "notification dispatcher", "notification".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Notification Dispatcher

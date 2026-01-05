@@ -1,13 +1,13 @@
 ---
-name: pivot-table-creator
+name: "pivot-table-creator"
 description: |
   Pivot Table Creator - Auto-activating skill for Data Analytics.
   Triggers on: pivot table creator, pivot table creator
-  Part of the Data Analytics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Analytics skill category. Use when working with pivot table creator functionality. Trigger with phrases like "pivot table creator", "pivot creator", "pivot".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Pivot Table Creator

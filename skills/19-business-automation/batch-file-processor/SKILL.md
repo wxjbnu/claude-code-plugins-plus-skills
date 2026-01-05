@@ -1,13 +1,13 @@
 ---
-name: batch-file-processor
+name: "batch-file-processor"
 description: |
   Batch File Processor - Auto-activating skill for Business Automation.
   Triggers on: batch file processor, batch file processor
-  Part of the Business Automation skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Business Automation skill category. Use when working with batch file processor functionality. Trigger with phrases like "batch file processor", "batch processor", "batch".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Batch File Processor

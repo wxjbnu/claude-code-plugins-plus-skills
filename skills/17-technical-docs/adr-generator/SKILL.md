@@ -1,13 +1,13 @@
 ---
-name: adr-generator
+name: "adr-generator"
 description: |
   Adr Generator - Auto-activating skill for Technical Documentation.
   Triggers on: adr generator, adr generator
-  Part of the Technical Documentation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Technical Documentation skill category. Use when working with adr generator functionality. Trigger with phrases like "adr generator", "adr generator", "adr".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Adr Generator

@@ -1,13 +1,13 @@
 ---
-name: feature-engineering-helper
+name: "feature-engineering-helper"
 description: |
   Feature Engineering Helper - Auto-activating skill for ML Training.
   Triggers on: feature engineering helper, feature engineering helper
-  Part of the ML Training skill category.
-allowed-tools: Read, Write, Edit, Bash(python:*), Bash(pip:*)
+  Part of the ML Training skill category. Use when working with feature engineering helper functionality. Trigger with phrases like "feature engineering helper", "feature helper", "feature".
+allowed-tools: "Read, Write, Edit, Bash(python:*), Bash(pip:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Feature Engineering Helper

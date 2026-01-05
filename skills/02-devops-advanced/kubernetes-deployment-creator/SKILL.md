@@ -1,13 +1,13 @@
 ---
-name: kubernetes-deployment-creator
+name: "kubernetes-deployment-creator"
 description: |
   Kubernetes Deployment Creator - Auto-activating skill for DevOps Advanced.
   Triggers on: kubernetes deployment creator, kubernetes deployment creator
-  Part of the DevOps Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Advanced skill category. Use when deploying applications or services. Trigger with phrases like "kubernetes deployment creator", "kubernetes creator", "deploy kubernetes ment creator".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Kubernetes Deployment Creator

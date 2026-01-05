@@ -1,13 +1,13 @@
 ---
-name: gitlab-ci-basics
+name: "gitlab-ci-basics"
 description: |
   Gitlab Ci Basics - Auto-activating skill for DevOps Basics.
   Triggers on: gitlab ci basics, gitlab ci basics
-  Part of the DevOps Basics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Basics skill category. Use when working with gitlab ci basics functionality. Trigger with phrases like "gitlab ci basics", "gitlab basics", "gitlab".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Gitlab Ci Basics

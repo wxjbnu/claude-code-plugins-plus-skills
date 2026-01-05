@@ -1,13 +1,13 @@
 ---
-name: sklearn-pipeline-builder
+name: "sklearn-pipeline-builder"
 description: |
   Sklearn Pipeline Builder - Auto-activating skill for ML Training.
   Triggers on: sklearn pipeline builder, sklearn pipeline builder
-  Part of the ML Training skill category.
-allowed-tools: Read, Write, Edit, Bash(python:*), Bash(pip:*)
+  Part of the ML Training skill category. Use when working with sklearn pipeline builder functionality. Trigger with phrases like "sklearn pipeline builder", "sklearn builder", "sklearn".
+allowed-tools: "Read, Write, Edit, Bash(python:*), Bash(pip:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Sklearn Pipeline Builder

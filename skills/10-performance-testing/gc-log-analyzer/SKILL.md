@@ -1,13 +1,13 @@
 ---
-name: gc-log-analyzer
+name: "gc-log-analyzer"
 description: |
   Gc Log Analyzer - Auto-activating skill for Performance Testing.
   Triggers on: gc log analyzer, gc log analyzer
-  Part of the Performance Testing skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Performance Testing skill category. Use when analyzing or auditing gc log analyzer. Trigger with phrases like "gc log analyzer", "gc analyzer", "analyze gc log r".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Gc Log Analyzer

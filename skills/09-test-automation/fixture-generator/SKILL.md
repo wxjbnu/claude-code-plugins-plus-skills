@@ -1,13 +1,13 @@
 ---
-name: fixture-generator
+name: "fixture-generator"
 description: |
   Fixture Generator - Auto-activating skill for Test Automation.
   Triggers on: fixture generator, fixture generator
-  Part of the Test Automation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Test Automation skill category. Use when working with fixture generator functionality. Trigger with phrases like "fixture generator", "fixture generator", "fixture".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Fixture Generator

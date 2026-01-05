@@ -1,13 +1,13 @@
 ---
-name: model-export-helper
+name: "model-export-helper"
 description: |
   Model Export Helper - Auto-activating skill for ML Deployment.
   Triggers on: model export helper, model export helper
-  Part of the ML Deployment skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the ML Deployment skill category. Use when working with model export helper functionality. Trigger with phrases like "model export helper", "model helper", "model".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Model Export Helper

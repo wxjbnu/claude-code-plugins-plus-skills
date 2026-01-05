@@ -1,13 +1,13 @@
 ---
-name: contributing-guide-creator
+name: "contributing-guide-creator"
 description: |
   Contributing Guide Creator - Auto-activating skill for Technical Documentation.
   Triggers on: contributing guide creator, contributing guide creator
-  Part of the Technical Documentation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Technical Documentation skill category. Use when working with contributing guide creator functionality. Trigger with phrases like "contributing guide creator", "contributing creator", "contributing".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Contributing Guide Creator

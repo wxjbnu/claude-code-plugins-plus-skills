@@ -1,13 +1,13 @@
 ---
-name: github-project-setup
+name: "github-project-setup"
 description: |
   Github Project Setup - Auto-activating skill for Enterprise Workflows.
   Triggers on: github project setup, github project setup
-  Part of the Enterprise Workflows skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Enterprise Workflows skill category. Use when working with github project setup functionality. Trigger with phrases like "github project setup", "github setup", "github".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Github Project Setup

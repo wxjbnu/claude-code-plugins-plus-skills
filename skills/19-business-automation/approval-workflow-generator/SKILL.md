@@ -1,13 +1,13 @@
 ---
-name: approval-workflow-generator
+name: "approval-workflow-generator"
 description: |
   Approval Workflow Generator - Auto-activating skill for Business Automation.
   Triggers on: approval workflow generator, approval workflow generator
-  Part of the Business Automation skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Business Automation skill category. Use when working with approval workflow generator functionality. Trigger with phrases like "approval workflow generator", "approval generator", "approval".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Approval Workflow Generator

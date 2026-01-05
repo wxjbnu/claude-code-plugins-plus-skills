@@ -1,13 +1,13 @@
 ---
-name: pyspark-transformer
+name: "pyspark-transformer"
 description: |
   Pyspark Transformer - Auto-activating skill for Data Pipelines.
   Triggers on: pyspark transformer, pyspark transformer
-  Part of the Data Pipelines skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Pipelines skill category. Use when working with pyspark transformer functionality. Trigger with phrases like "pyspark transformer", "pyspark transformer", "pyspark".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Pyspark Transformer

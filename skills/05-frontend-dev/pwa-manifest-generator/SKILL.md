@@ -1,13 +1,13 @@
 ---
-name: pwa-manifest-generator
+name: "pwa-manifest-generator"
 description: |
   Pwa Manifest Generator - Auto-activating skill for Frontend Development.
   Triggers on: pwa manifest generator, pwa manifest generator
-  Part of the Frontend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Frontend Development skill category. Use when working with pwa manifest generator functionality. Trigger with phrases like "pwa manifest generator", "pwa generator", "pwa".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Pwa Manifest Generator

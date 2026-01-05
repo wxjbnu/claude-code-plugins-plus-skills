@@ -1,13 +1,13 @@
 ---
-name: change-request-generator
+name: "change-request-generator"
 description: |
   Change Request Generator - Auto-activating skill for Enterprise Workflows.
   Triggers on: change request generator, change request generator
-  Part of the Enterprise Workflows skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Enterprise Workflows skill category. Use when working with change request generator functionality. Trigger with phrases like "change request generator", "change generator", "change".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Change Request Generator

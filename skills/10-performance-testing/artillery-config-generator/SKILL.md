@@ -1,13 +1,13 @@
 ---
-name: artillery-config-generator
+name: "artillery-config-generator"
 description: |
   Artillery Config Generator - Auto-activating skill for Performance Testing.
   Triggers on: artillery config generator, artillery config generator
-  Part of the Performance Testing skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Performance Testing skill category. Use when configuring systems or services. Trigger with phrases like "artillery config generator", "artillery generator", "artillery".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Artillery Config Generator

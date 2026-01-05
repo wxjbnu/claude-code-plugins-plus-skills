@@ -1,13 +1,13 @@
 ---
-name: windsurf-terminal-ai
+name: "windsurf-terminal-ai"
 description: |
   Leverage AI-assisted terminal commands and debugging. Activate when users mention
   "terminal help", "command suggestion", "debug terminal", "shell assistance",
-  or "cli help". Handles AI-enhanced terminal operations.
-allowed-tools: Read,Bash,Grep
+  or "cli help". Handles AI-enhanced terminal operations. Use when working with windsurf terminal ai functionality. Trigger with phrases like "windsurf terminal ai", "windsurf ai", "windsurf".
+allowed-tools: "Read,Bash(cmd:*),Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Windsurf Terminal AI

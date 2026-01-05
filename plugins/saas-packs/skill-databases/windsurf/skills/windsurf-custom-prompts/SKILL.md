@@ -1,13 +1,13 @@
 ---
-name: windsurf-custom-prompts
+name: "windsurf-custom-prompts"
 description: |
   Create and manage custom prompt libraries for Cascade. Activate when users mention
   "custom prompts", "prompt library", "prompt templates", "cascade prompts",
-  or "prompt management". Handles prompt library creation and organization.
+  or "prompt management". Handles prompt library creation and organization. Use when working with windsurf custom prompts functionality. Trigger with phrases like "windsurf custom prompts", "windsurf prompts", "windsurf".
 allowed-tools: Read,Write,Edit,Grep,Glob
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Windsurf Custom Prompts

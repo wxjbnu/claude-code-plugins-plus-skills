@@ -1,13 +1,13 @@
 ---
-name: benchmark-suite-creator
+name: "benchmark-suite-creator"
 description: |
   Benchmark Suite Creator - Auto-activating skill for Performance Testing.
   Triggers on: benchmark suite creator, benchmark suite creator
-  Part of the Performance Testing skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Performance Testing skill category. Use when working with benchmark suite creator functionality. Trigger with phrases like "benchmark suite creator", "benchmark creator", "benchmark".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Benchmark Suite Creator

@@ -1,13 +1,13 @@
 ---
-name: graphviz-dot-generator
+name: "graphviz-dot-generator"
 description: |
   Graphviz Dot Generator - Auto-activating skill for Visual Content.
   Triggers on: graphviz dot generator, graphviz dot generator
-  Part of the Visual Content skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Visual Content skill category. Use when working with graphviz dot generator functionality. Trigger with phrases like "graphviz dot generator", "graphviz generator", "graphviz".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Graphviz Dot Generator

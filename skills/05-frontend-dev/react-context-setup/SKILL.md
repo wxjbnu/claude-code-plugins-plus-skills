@@ -1,13 +1,13 @@
 ---
-name: react-context-setup
+name: "react-context-setup"
 description: |
   React Context Setup - Auto-activating skill for Frontend Development.
   Triggers on: react context setup, react context setup
-  Part of the Frontend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Frontend Development skill category. Use when working with react context setup functionality. Trigger with phrases like "react context setup", "react setup", "react".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # React Context Setup

@@ -1,13 +1,13 @@
 ---
-name: connection-pooling-config
+name: "connection-pooling-config"
 description: |
   Connection Pooling Config - Auto-activating skill for API Integration.
   Triggers on: connection pooling config, connection pooling config
-  Part of the API Integration skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the API Integration skill category. Use when configuring systems or services. Trigger with phrases like "connection pooling config", "connection config", "connection".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Connection Pooling Config

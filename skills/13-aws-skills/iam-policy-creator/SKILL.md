@@ -1,13 +1,13 @@
 ---
-name: iam-policy-creator
+name: "iam-policy-creator"
 description: |
   Iam Policy Creator - Auto-activating skill for AWS Skills.
   Triggers on: iam policy creator, iam policy creator
-  Part of the AWS Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(aws:*)
+  Part of the AWS Skills skill category. Use when working with iam policy creator functionality. Trigger with phrases like "iam policy creator", "iam creator", "iam".
+allowed-tools: "Read, Write, Edit, Bash(aws:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Iam Policy Creator

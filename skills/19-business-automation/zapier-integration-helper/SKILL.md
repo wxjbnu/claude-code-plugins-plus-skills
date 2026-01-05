@@ -1,13 +1,13 @@
 ---
-name: zapier-integration-helper
+name: "zapier-integration-helper"
 description: |
   Zapier Integration Helper - Auto-activating skill for Business Automation.
   Triggers on: zapier integration helper, zapier integration helper
-  Part of the Business Automation skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Business Automation skill category. Use when working with APIs or building integrations. Trigger with phrases like "zapier integration helper", "zapier helper", "zapier".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Zapier Integration Helper

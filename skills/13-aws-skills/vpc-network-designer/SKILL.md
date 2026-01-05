@@ -1,13 +1,13 @@
 ---
-name: vpc-network-designer
+name: "vpc-network-designer"
 description: |
   Vpc Network Designer - Auto-activating skill for AWS Skills.
   Triggers on: vpc network designer, vpc network designer
-  Part of the AWS Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(aws:*)
+  Part of the AWS Skills skill category. Use when working with vpc network designer functionality. Trigger with phrases like "vpc network designer", "vpc designer", "vpc".
+allowed-tools: "Read, Write, Edit, Bash(aws:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Vpc Network Designer

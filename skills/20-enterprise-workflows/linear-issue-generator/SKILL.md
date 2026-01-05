@@ -1,13 +1,13 @@
 ---
-name: linear-issue-generator
+name: "linear-issue-generator"
 description: |
   Linear Issue Generator - Auto-activating skill for Enterprise Workflows.
   Triggers on: linear issue generator, linear issue generator
-  Part of the Enterprise Workflows skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Enterprise Workflows skill category. Use when working with linear issue generator functionality. Trigger with phrases like "linear issue generator", "linear generator", "linear".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Linear Issue Generator

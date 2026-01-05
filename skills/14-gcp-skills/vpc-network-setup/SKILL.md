@@ -1,13 +1,13 @@
 ---
-name: vpc-network-setup
+name: "vpc-network-setup"
 description: |
   Vpc Network Setup - Auto-activating skill for GCP Skills.
   Triggers on: vpc network setup, vpc network setup
-  Part of the GCP Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(gcloud:*)
+  Part of the GCP Skills skill category. Use when working with vpc network setup functionality. Trigger with phrases like "vpc network setup", "vpc setup", "vpc".
+allowed-tools: "Read, Write, Edit, Bash(gcloud:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Vpc Network Setup

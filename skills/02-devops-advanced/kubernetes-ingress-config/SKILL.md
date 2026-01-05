@@ -1,13 +1,13 @@
 ---
-name: kubernetes-ingress-config
+name: "kubernetes-ingress-config"
 description: |
   Kubernetes Ingress Config - Auto-activating skill for DevOps Advanced.
   Triggers on: kubernetes ingress config, kubernetes ingress config
-  Part of the DevOps Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Advanced skill category. Use when configuring systems or services. Trigger with phrases like "kubernetes ingress config", "kubernetes config", "kubernetes".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Kubernetes Ingress Config

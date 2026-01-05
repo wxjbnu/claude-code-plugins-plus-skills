@@ -1,13 +1,13 @@
 ---
-name: email-parser
+name: "email-parser"
 description: |
   Email Parser - Auto-activating skill for Business Automation.
   Triggers on: email parser, email parser
-  Part of the Business Automation skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Business Automation skill category. Use when working with email parser functionality. Trigger with phrases like "email parser", "email parser", "email".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Email Parser

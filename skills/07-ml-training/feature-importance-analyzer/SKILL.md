@@ -1,13 +1,13 @@
 ---
-name: feature-importance-analyzer
+name: "feature-importance-analyzer"
 description: |
   Feature Importance Analyzer - Auto-activating skill for ML Training.
   Triggers on: feature importance analyzer, feature importance analyzer
-  Part of the ML Training skill category.
-allowed-tools: Read, Write, Edit, Bash(python:*), Bash(pip:*)
+  Part of the ML Training skill category. Use when analyzing or auditing feature importance analyzer. Trigger with phrases like "feature importance analyzer", "feature analyzer", "analyze feature importance r".
+allowed-tools: "Read, Write, Edit, Bash(python:*), Bash(pip:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Feature Importance Analyzer

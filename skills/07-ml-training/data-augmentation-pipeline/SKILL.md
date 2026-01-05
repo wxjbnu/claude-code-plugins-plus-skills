@@ -1,13 +1,13 @@
 ---
-name: data-augmentation-pipeline
+name: "data-augmentation-pipeline"
 description: |
   Data Augmentation Pipeline - Auto-activating skill for ML Training.
   Triggers on: data augmentation pipeline, data augmentation pipeline
-  Part of the ML Training skill category.
-allowed-tools: Read, Write, Edit, Bash(python:*), Bash(pip:*)
+  Part of the ML Training skill category. Use when working with data augmentation pipeline functionality. Trigger with phrases like "data augmentation pipeline", "data pipeline", "data".
+allowed-tools: "Read, Write, Edit, Bash(python:*), Bash(pip:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Data Augmentation Pipeline

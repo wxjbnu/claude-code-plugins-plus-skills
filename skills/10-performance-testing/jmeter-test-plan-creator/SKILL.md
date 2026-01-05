@@ -1,13 +1,13 @@
 ---
-name: jmeter-test-plan-creator
+name: "jmeter-test-plan-creator"
 description: |
   Jmeter Test Plan Creator - Auto-activating skill for Performance Testing.
   Triggers on: jmeter test plan creator, jmeter test plan creator
-  Part of the Performance Testing skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Performance Testing skill category. Use when writing or running tests. Trigger with phrases like "jmeter test plan creator", "jmeter creator", "jmeter".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Jmeter Test Plan Creator

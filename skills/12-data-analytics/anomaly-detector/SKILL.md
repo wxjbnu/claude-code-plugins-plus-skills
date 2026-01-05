@@ -1,13 +1,13 @@
 ---
-name: anomaly-detector
+name: "anomaly-detector"
 description: |
   Anomaly Detector - Auto-activating skill for Data Analytics.
   Triggers on: anomaly detector, anomaly detector
-  Part of the Data Analytics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Analytics skill category. Use when working with anomaly detector functionality. Trigger with phrases like "anomaly detector", "anomaly detector", "anomaly".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Anomaly Detector

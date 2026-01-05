@@ -1,13 +1,13 @@
 ---
-name: long-polling-handler
+name: "long-polling-handler"
 description: |
   Long Polling Handler - Auto-activating skill for API Integration.
   Triggers on: long polling handler, long polling handler
-  Part of the API Integration skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the API Integration skill category. Use when working with long polling handler functionality. Trigger with phrases like "long polling handler", "long handler", "long".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Long Polling Handler

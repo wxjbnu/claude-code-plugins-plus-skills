@@ -1,13 +1,13 @@
 ---
-name: data-visualization-helper
+name: "data-visualization-helper"
 description: |
   Data Visualization Helper - Auto-activating skill for Visual Content.
   Triggers on: data visualization helper, data visualization helper
-  Part of the Visual Content skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Visual Content skill category. Use when working with data visualization helper functionality. Trigger with phrases like "data visualization helper", "data helper", "data".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Data Visualization Helper

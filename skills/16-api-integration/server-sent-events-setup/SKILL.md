@@ -1,13 +1,13 @@
 ---
-name: server-sent-events-setup
+name: "server-sent-events-setup"
 description: |
   Server Sent Events Setup - Auto-activating skill for API Integration.
   Triggers on: server sent events setup, server sent events setup
-  Part of the API Integration skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the API Integration skill category. Use when working with server sent events setup functionality. Trigger with phrases like "server sent events setup", "server setup", "server".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Server Sent Events Setup

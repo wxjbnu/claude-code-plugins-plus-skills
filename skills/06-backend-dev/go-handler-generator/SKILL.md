@@ -1,13 +1,13 @@
 ---
-name: go-handler-generator
+name: "go-handler-generator"
 description: |
   Go Handler Generator - Auto-activating skill for Backend Development.
   Triggers on: go handler generator, go handler generator
-  Part of the Backend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Backend Development skill category. Use when working with go handler generator functionality. Trigger with phrases like "go handler generator", "go generator", "go".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Go Handler Generator

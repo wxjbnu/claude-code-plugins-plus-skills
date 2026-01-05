@@ -1,13 +1,13 @@
 ---
-name: iam-policy-reviewer
+name: "iam-policy-reviewer"
 description: |
   Iam Policy Reviewer - Auto-activating skill for Security Advanced.
   Triggers on: iam policy reviewer, iam policy reviewer
-  Part of the Security Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Security Advanced skill category. Use when working with iam policy reviewer functionality. Trigger with phrases like "iam policy reviewer", "iam reviewer", "iam".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Iam Policy Reviewer

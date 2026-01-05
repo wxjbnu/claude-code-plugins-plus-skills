@@ -1,13 +1,13 @@
 ---
-name: content-security-policy-generator
+name: "content-security-policy-generator"
 description: |
   Content Security Policy Generator - Auto-activating skill for Security Fundamentals.
   Triggers on: content security policy generator, content security policy generator
-  Part of the Security Fundamentals skill category.
-allowed-tools: Read, Write, Grep, Bash(npm:*)
+  Part of the Security Fundamentals skill category. Use when working with content security policy generator functionality. Trigger with phrases like "content security policy generator", "content generator", "content".
+allowed-tools: "Read, Write, Grep, Bash(npm:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Content Security Policy Generator

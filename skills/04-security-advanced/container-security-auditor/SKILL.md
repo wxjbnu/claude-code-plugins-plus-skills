@@ -1,13 +1,13 @@
 ---
-name: container-security-auditor
+name: "container-security-auditor"
 description: |
   Container Security Auditor - Auto-activating skill for Security Advanced.
   Triggers on: container security auditor, container security auditor
-  Part of the Security Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Security Advanced skill category. Use when analyzing or auditing container security auditor. Trigger with phrases like "container security auditor", "container auditor", "container".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Container Security Auditor

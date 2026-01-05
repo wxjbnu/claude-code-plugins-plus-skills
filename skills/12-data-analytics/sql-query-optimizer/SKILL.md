@@ -1,13 +1,13 @@
 ---
-name: sql-query-optimizer
+name: "sql-query-optimizer"
 description: |
   Sql Query Optimizer - Auto-activating skill for Data Analytics.
   Triggers on: sql query optimizer, sql query optimizer
-  Part of the Data Analytics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Analytics skill category. Use when working with sql query optimizer functionality. Trigger with phrases like "sql query optimizer", "sql optimizer", "sql".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Sql Query Optimizer

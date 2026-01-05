@@ -1,13 +1,13 @@
 ---
-name: branch-naming-helper
+name: "branch-naming-helper"
 description: |
   Branch Naming Helper - Auto-activating skill for DevOps Basics.
   Triggers on: branch naming helper, branch naming helper
-  Part of the DevOps Basics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Basics skill category. Use when working with branch naming helper functionality. Trigger with phrases like "branch naming helper", "branch helper", "branch".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Branch Naming Helper

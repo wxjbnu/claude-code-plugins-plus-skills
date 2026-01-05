@@ -1,13 +1,13 @@
 ---
-name: beam-pipeline-builder
+name: "beam-pipeline-builder"
 description: |
   Beam Pipeline Builder - Auto-activating skill for Data Pipelines.
   Triggers on: beam pipeline builder, beam pipeline builder
-  Part of the Data Pipelines skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Pipelines skill category. Use when working with beam pipeline builder functionality. Trigger with phrases like "beam pipeline builder", "beam builder", "beam".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Beam Pipeline Builder

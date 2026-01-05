@@ -1,13 +1,13 @@
 ---
-name: consul-service-discovery
+name: "consul-service-discovery"
 description: |
   Consul Service Discovery - Auto-activating skill for DevOps Advanced.
   Triggers on: consul service discovery, consul service discovery
-  Part of the DevOps Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Advanced skill category. Use when working with consul service discovery functionality. Trigger with phrases like "consul service discovery", "consul discovery", "consul".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Consul Service Discovery

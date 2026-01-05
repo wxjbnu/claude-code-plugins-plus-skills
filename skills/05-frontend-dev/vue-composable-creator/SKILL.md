@@ -1,13 +1,13 @@
 ---
-name: vue-composable-creator
+name: "vue-composable-creator"
 description: |
   Vue Composable Creator - Auto-activating skill for Frontend Development.
   Triggers on: vue composable creator, vue composable creator
-  Part of the Frontend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Frontend Development skill category. Use when working with vue composable creator functionality. Trigger with phrases like "vue composable creator", "vue creator", "vue".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Vue Composable Creator

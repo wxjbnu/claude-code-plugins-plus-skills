@@ -1,13 +1,13 @@
 ---
-name: certificate-lifecycle-manager
+name: "certificate-lifecycle-manager"
 description: |
   Certificate Lifecycle Manager - Auto-activating skill for Security Advanced.
   Triggers on: certificate lifecycle manager, certificate lifecycle manager
-  Part of the Security Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Security Advanced skill category. Use when working with certificate lifecycle manager functionality. Trigger with phrases like "certificate lifecycle manager", "certificate manager", "certificate".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Certificate Lifecycle Manager

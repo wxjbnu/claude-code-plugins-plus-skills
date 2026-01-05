@@ -1,13 +1,13 @@
 ---
-name: percentile-analyzer
+name: "percentile-analyzer"
 description: |
   Percentile Analyzer - Auto-activating skill for Performance Testing.
   Triggers on: percentile analyzer, percentile analyzer
-  Part of the Performance Testing skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Performance Testing skill category. Use when analyzing or auditing percentile analyzer. Trigger with phrases like "percentile analyzer", "percentile analyzer", "analyze percentile r".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Percentile Analyzer

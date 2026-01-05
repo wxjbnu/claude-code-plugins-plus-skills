@@ -1,13 +1,13 @@
 ---
-name: accessibility-audit-runner
+name: "accessibility-audit-runner"
 description: |
   Accessibility Audit Runner - Auto-activating skill for Frontend Development.
   Triggers on: accessibility audit runner, accessibility audit runner
-  Part of the Frontend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Frontend Development skill category. Use when analyzing or auditing accessibility audit runner. Trigger with phrases like "accessibility audit runner", "accessibility runner", "accessibility".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Accessibility Audit Runner

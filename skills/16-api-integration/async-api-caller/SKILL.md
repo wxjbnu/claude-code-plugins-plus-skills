@@ -1,13 +1,13 @@
 ---
-name: async-api-caller
+name: "async-api-caller"
 description: |
   Async Api Caller - Auto-activating skill for API Integration.
   Triggers on: async api caller, async api caller
-  Part of the API Integration skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the API Integration skill category. Use when working with APIs or building integrations. Trigger with phrases like "async api caller", "async caller", "async".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Async Api Caller

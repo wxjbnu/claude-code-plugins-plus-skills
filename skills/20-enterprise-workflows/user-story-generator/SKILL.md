@@ -1,13 +1,13 @@
 ---
-name: user-story-generator
+name: "user-story-generator"
 description: |
   User Story Generator - Auto-activating skill for Enterprise Workflows.
   Triggers on: user story generator, user story generator
-  Part of the Enterprise Workflows skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Enterprise Workflows skill category. Use when working with user story generator functionality. Trigger with phrases like "user story generator", "user generator", "user".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # User Story Generator

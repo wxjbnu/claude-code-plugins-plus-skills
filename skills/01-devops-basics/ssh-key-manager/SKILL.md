@@ -1,13 +1,13 @@
 ---
-name: ssh-key-manager
+name: "ssh-key-manager"
 description: |
   Ssh Key Manager - Auto-activating skill for DevOps Basics.
   Triggers on: ssh key manager, ssh key manager
-  Part of the DevOps Basics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Basics skill category. Use when working with ssh key manager functionality. Trigger with phrases like "ssh key manager", "ssh manager", "ssh".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Ssh Key Manager

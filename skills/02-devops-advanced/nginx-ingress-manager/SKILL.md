@@ -1,13 +1,13 @@
 ---
-name: nginx-ingress-manager
+name: "nginx-ingress-manager"
 description: |
   Nginx Ingress Manager - Auto-activating skill for DevOps Advanced.
   Triggers on: nginx ingress manager, nginx ingress manager
-  Part of the DevOps Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Advanced skill category. Use when working with nginx ingress manager functionality. Trigger with phrases like "nginx ingress manager", "nginx manager", "nginx".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Nginx Ingress Manager

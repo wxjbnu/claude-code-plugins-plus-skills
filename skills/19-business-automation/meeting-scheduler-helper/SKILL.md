@@ -1,13 +1,13 @@
 ---
-name: meeting-scheduler-helper
+name: "meeting-scheduler-helper"
 description: |
   Meeting Scheduler Helper - Auto-activating skill for Business Automation.
   Triggers on: meeting scheduler helper, meeting scheduler helper
-  Part of the Business Automation skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Business Automation skill category. Use when working with meeting scheduler helper functionality. Trigger with phrases like "meeting scheduler helper", "meeting helper", "meeting".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Meeting Scheduler Helper

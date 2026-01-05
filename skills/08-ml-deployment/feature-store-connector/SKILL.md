@@ -1,13 +1,13 @@
 ---
-name: feature-store-connector
+name: "feature-store-connector"
 description: |
   Feature Store Connector - Auto-activating skill for ML Deployment.
   Triggers on: feature store connector, feature store connector
-  Part of the ML Deployment skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the ML Deployment skill category. Use when working with feature store connector functionality. Trigger with phrases like "feature store connector", "feature connector", "feature".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Feature Store Connector

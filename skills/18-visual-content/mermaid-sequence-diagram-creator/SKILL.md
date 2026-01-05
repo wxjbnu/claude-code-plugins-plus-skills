@@ -1,13 +1,13 @@
 ---
-name: mermaid-sequence-diagram-creator
+name: "mermaid-sequence-diagram-creator"
 description: |
   Mermaid Sequence Diagram Creator - Auto-activating skill for Visual Content.
   Triggers on: mermaid sequence diagram creator, mermaid sequence diagram creator
-  Part of the Visual Content skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Visual Content skill category. Use when working with mermaid sequence diagram creator functionality. Trigger with phrases like "mermaid sequence diagram creator", "mermaid creator", "mermaid".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Mermaid Sequence Diagram Creator

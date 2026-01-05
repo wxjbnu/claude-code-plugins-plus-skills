@@ -1,13 +1,13 @@
 ---
-name: open-graph-creator
+name: "open-graph-creator"
 description: |
   Open Graph Creator - Auto-activating skill for Frontend Development.
   Triggers on: open graph creator, open graph creator
-  Part of the Frontend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Frontend Development skill category. Use when working with open graph creator functionality. Trigger with phrases like "open graph creator", "open creator", "open".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Open Graph Creator

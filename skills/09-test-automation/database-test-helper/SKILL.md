@@ -1,13 +1,13 @@
 ---
-name: database-test-helper
+name: "database-test-helper"
 description: |
   Database Test Helper - Auto-activating skill for Test Automation.
   Triggers on: database test helper, database test helper
-  Part of the Test Automation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Test Automation skill category. Use when writing or running tests. Trigger with phrases like "database test helper", "database helper", "database".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Database Test Helper

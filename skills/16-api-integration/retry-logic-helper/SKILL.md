@@ -1,13 +1,13 @@
 ---
-name: retry-logic-helper
+name: "retry-logic-helper"
 description: |
   Retry Logic Helper - Auto-activating skill for API Integration.
   Triggers on: retry logic helper, retry logic helper
-  Part of the API Integration skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the API Integration skill category. Use when working with retry logic helper functionality. Trigger with phrases like "retry logic helper", "retry helper", "retry".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Retry Logic Helper

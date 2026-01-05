@@ -1,13 +1,13 @@
 ---
-name: password-hash-generator
+name: "password-hash-generator"
 description: |
   Password Hash Generator - Auto-activating skill for Security Fundamentals.
   Triggers on: password hash generator, password hash generator
-  Part of the Security Fundamentals skill category.
-allowed-tools: Read, Write, Grep, Bash(npm:*)
+  Part of the Security Fundamentals skill category. Use when working with password hash generator functionality. Trigger with phrases like "password hash generator", "password generator", "password".
+allowed-tools: "Read, Write, Grep, Bash(npm:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Password Hash Generator

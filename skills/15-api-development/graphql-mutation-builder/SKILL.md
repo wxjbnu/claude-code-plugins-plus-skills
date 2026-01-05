@@ -1,13 +1,13 @@
 ---
-name: graphql-mutation-builder
+name: "graphql-mutation-builder"
 description: |
   Graphql Mutation Builder - Auto-activating skill for API Development.
   Triggers on: graphql mutation builder, graphql mutation builder
-  Part of the API Development skill category.
-allowed-tools: Read, Write, Edit, Bash(curl:*), Grep
+  Part of the API Development skill category. Use when working with graphql mutation builder functionality. Trigger with phrases like "graphql mutation builder", "graphql builder", "graphql".
+allowed-tools: "Read, Write, Edit, Bash(curl:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Graphql Mutation Builder

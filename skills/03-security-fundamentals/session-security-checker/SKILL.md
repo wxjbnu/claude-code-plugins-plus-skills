@@ -1,13 +1,13 @@
 ---
-name: session-security-checker
+name: "session-security-checker"
 description: |
   Session Security Checker - Auto-activating skill for Security Fundamentals.
   Triggers on: session security checker, session security checker
-  Part of the Security Fundamentals skill category.
-allowed-tools: Read, Write, Grep, Bash(npm:*)
+  Part of the Security Fundamentals skill category. Use when working with session security checker functionality. Trigger with phrases like "session security checker", "session checker", "session".
+allowed-tools: "Read, Write, Grep, Bash(npm:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Session Security Checker

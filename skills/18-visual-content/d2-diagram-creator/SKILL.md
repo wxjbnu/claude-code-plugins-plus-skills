@@ -1,13 +1,13 @@
 ---
-name: d2-diagram-creator
+name: "d2-diagram-creator"
 description: |
   D2 Diagram Creator - Auto-activating skill for Visual Content.
   Triggers on: d2 diagram creator, d2 diagram creator
-  Part of the Visual Content skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Visual Content skill category. Use when working with d2 diagram creator functionality. Trigger with phrases like "d2 diagram creator", "d2 creator", "d2".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # D2 Diagram Creator

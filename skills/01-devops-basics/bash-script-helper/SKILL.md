@@ -1,13 +1,13 @@
 ---
-name: bash-script-helper
+name: "bash-script-helper"
 description: |
   Bash Script Helper - Auto-activating skill for DevOps Basics.
   Triggers on: bash script helper, bash script helper
-  Part of the DevOps Basics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Basics skill category. Use when working with bash script helper functionality. Trigger with phrases like "bash script helper", "bash helper", "bash".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Bash Script Helper

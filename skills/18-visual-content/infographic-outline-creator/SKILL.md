@@ -1,13 +1,13 @@
 ---
-name: infographic-outline-creator
+name: "infographic-outline-creator"
 description: |
   Infographic Outline Creator - Auto-activating skill for Visual Content.
   Triggers on: infographic outline creator, infographic outline creator
-  Part of the Visual Content skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Visual Content skill category. Use when working with infographic outline creator functionality. Trigger with phrases like "infographic outline creator", "infographic creator", "infographic".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Infographic Outline Creator

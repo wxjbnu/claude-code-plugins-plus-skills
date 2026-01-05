@@ -1,13 +1,13 @@
 ---
-name: sprint-planning-helper
+name: "sprint-planning-helper"
 description: |
   Sprint Planning Helper - Auto-activating skill for Enterprise Workflows.
   Triggers on: sprint planning helper, sprint planning helper
-  Part of the Enterprise Workflows skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Enterprise Workflows skill category. Use when working with sprint planning helper functionality. Trigger with phrases like "sprint planning helper", "sprint helper", "sprint".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Sprint Planning Helper

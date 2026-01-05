@@ -1,13 +1,13 @@
 ---
-name: s3-bucket-policy-generator
+name: "s3-bucket-policy-generator"
 description: |
   S3 Bucket Policy Generator - Auto-activating skill for AWS Skills.
   Triggers on: s3 bucket policy generator, s3 bucket policy generator
-  Part of the AWS Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(aws:*)
+  Part of the AWS Skills skill category. Use when working with s3 bucket policy generator functionality. Trigger with phrases like "s3 bucket policy generator", "s3 generator", "s3".
+allowed-tools: "Read, Write, Edit, Bash(aws:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # S3 Bucket Policy Generator

@@ -1,13 +1,13 @@
 ---
-name: make-scenario-creator
+name: "make-scenario-creator"
 description: |
   Make Scenario Creator - Auto-activating skill for Business Automation.
   Triggers on: make scenario creator, make scenario creator
-  Part of the Business Automation skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Business Automation skill category. Use when working with make scenario creator functionality. Trigger with phrases like "make scenario creator", "make creator", "make".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Make Scenario Creator

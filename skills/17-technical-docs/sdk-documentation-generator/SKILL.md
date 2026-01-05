@@ -1,13 +1,13 @@
 ---
-name: sdk-documentation-generator
+name: "sdk-documentation-generator"
 description: |
   Sdk Documentation Generator - Auto-activating skill for Technical Documentation.
   Triggers on: sdk documentation generator, sdk documentation generator
-  Part of the Technical Documentation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Technical Documentation skill category. Use when working with sdk documentation generator functionality. Trigger with phrases like "sdk documentation generator", "sdk generator", "sdk".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Sdk Documentation Generator

@@ -1,13 +1,13 @@
 ---
-name: status-code-recommender
+name: "status-code-recommender"
 description: |
   Status Code Recommender - Auto-activating skill for API Development.
   Triggers on: status code recommender, status code recommender
-  Part of the API Development skill category.
-allowed-tools: Read, Write, Edit, Bash(curl:*), Grep
+  Part of the API Development skill category. Use when working with status code recommender functionality. Trigger with phrases like "status code recommender", "status recommender", "status".
+allowed-tools: "Read, Write, Edit, Bash(curl:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Status Code Recommender

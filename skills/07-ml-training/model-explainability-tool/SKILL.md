@@ -1,13 +1,13 @@
 ---
-name: model-explainability-tool
+name: "model-explainability-tool"
 description: |
   Model Explainability Tool - Auto-activating skill for ML Training.
   Triggers on: model explainability tool, model explainability tool
-  Part of the ML Training skill category.
-allowed-tools: Read, Write, Edit, Bash(python:*), Bash(pip:*)
+  Part of the ML Training skill category. Use when working with model explainability tool functionality. Trigger with phrases like "model explainability tool", "model tool", "model".
+allowed-tools: "Read, Write, Edit, Bash(python:*), Bash(pip:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Model Explainability Tool

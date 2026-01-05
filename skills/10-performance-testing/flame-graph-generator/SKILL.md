@@ -1,13 +1,13 @@
 ---
-name: flame-graph-generator
+name: "flame-graph-generator"
 description: |
   Flame Graph Generator - Auto-activating skill for Performance Testing.
   Triggers on: flame graph generator, flame graph generator
-  Part of the Performance Testing skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Performance Testing skill category. Use when working with flame graph generator functionality. Trigger with phrases like "flame graph generator", "flame generator", "flame".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Flame Graph Generator

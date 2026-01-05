@@ -1,13 +1,13 @@
 ---
-name: terraform-provider-config
+name: "terraform-provider-config"
 description: |
   Terraform Provider Config - Auto-activating skill for DevOps Advanced.
   Triggers on: terraform provider config, terraform provider config
-  Part of the DevOps Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Advanced skill category. Use when configuring systems or services. Trigger with phrases like "terraform provider config", "terraform config", "terraform".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Terraform Provider Config

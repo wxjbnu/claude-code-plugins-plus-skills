@@ -1,13 +1,13 @@
 ---
-name: torchserve-config-generator
+name: "torchserve-config-generator"
 description: |
   Torchserve Config Generator - Auto-activating skill for ML Deployment.
   Triggers on: torchserve config generator, torchserve config generator
-  Part of the ML Deployment skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the ML Deployment skill category. Use when configuring systems or services. Trigger with phrases like "torchserve config generator", "torchserve generator", "torchserve".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Torchserve Config Generator

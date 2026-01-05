@@ -1,13 +1,13 @@
 ---
-name: flaky-test-detector
+name: "flaky-test-detector"
 description: |
   Flaky Test Detector - Auto-activating skill for Test Automation.
   Triggers on: flaky test detector, flaky test detector
-  Part of the Test Automation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Test Automation skill category. Use when writing or running tests. Trigger with phrases like "flaky test detector", "flaky detector", "flaky".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Flaky Test Detector

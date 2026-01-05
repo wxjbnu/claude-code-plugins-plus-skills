@@ -1,13 +1,13 @@
 ---
-name: oauth-client-setup
+name: "oauth-client-setup"
 description: |
   Oauth Client Setup - Auto-activating skill for API Integration.
   Triggers on: oauth client setup, oauth client setup
-  Part of the API Integration skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the API Integration skill category. Use when working with oauth client setup functionality. Trigger with phrases like "oauth client setup", "oauth setup", "oauth".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Oauth Client Setup

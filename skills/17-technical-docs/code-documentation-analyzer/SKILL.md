@@ -1,13 +1,13 @@
 ---
-name: code-documentation-analyzer
+name: "code-documentation-analyzer"
 description: |
   Code Documentation Analyzer - Auto-activating skill for Technical Documentation.
   Triggers on: code documentation analyzer, code documentation analyzer
-  Part of the Technical Documentation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Technical Documentation skill category. Use when analyzing or auditing code documentation analyzer. Trigger with phrases like "code documentation analyzer", "code analyzer", "analyze code documentation r".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Code Documentation Analyzer

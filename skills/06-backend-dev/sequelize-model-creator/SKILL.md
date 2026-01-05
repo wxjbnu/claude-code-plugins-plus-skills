@@ -1,13 +1,13 @@
 ---
-name: sequelize-model-creator
+name: "sequelize-model-creator"
 description: |
   Sequelize Model Creator - Auto-activating skill for Backend Development.
   Triggers on: sequelize model creator, sequelize model creator
-  Part of the Backend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Backend Development skill category. Use when working with sequelize model creator functionality. Trigger with phrases like "sequelize model creator", "sequelize creator", "sequelize".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Sequelize Model Creator

@@ -1,13 +1,13 @@
 ---
-name: report-generator
+name: "report-generator"
 description: |
   Report Generator - Auto-activating skill for Business Automation.
   Triggers on: report generator, report generator
-  Part of the Business Automation skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Business Automation skill category. Use when working with report generator functionality. Trigger with phrases like "report generator", "report generator", "report".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Report Generator

@@ -1,13 +1,13 @@
 ---
-name: envoy-proxy-config
+name: "envoy-proxy-config"
 description: |
   Envoy Proxy Config - Auto-activating skill for DevOps Advanced.
   Triggers on: envoy proxy config, envoy proxy config
-  Part of the DevOps Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Advanced skill category. Use when configuring systems or services. Trigger with phrases like "envoy proxy config", "envoy config", "envoy".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Envoy Proxy Config

@@ -1,13 +1,13 @@
 ---
-name: k6-script-generator
+name: "k6-script-generator"
 description: |
   K6 Script Generator - Auto-activating skill for Performance Testing.
   Triggers on: k6 script generator, k6 script generator
-  Part of the Performance Testing skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Performance Testing skill category. Use when working with k6 script generator functionality. Trigger with phrases like "k6 script generator", "k6 generator", "k6".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # K6 Script Generator

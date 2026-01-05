@@ -1,13 +1,13 @@
 ---
-name: model-pruning-helper
+name: "model-pruning-helper"
 description: |
   Model Pruning Helper - Auto-activating skill for ML Deployment.
   Triggers on: model pruning helper, model pruning helper
-  Part of the ML Deployment skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the ML Deployment skill category. Use when working with model pruning helper functionality. Trigger with phrases like "model pruning helper", "model helper", "model".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Model Pruning Helper

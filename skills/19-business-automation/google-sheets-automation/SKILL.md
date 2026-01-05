@@ -1,13 +1,13 @@
 ---
-name: google-sheets-automation
+name: "google-sheets-automation"
 description: |
   Google Sheets Automation - Auto-activating skill for Business Automation.
   Triggers on: google sheets automation, google sheets automation
-  Part of the Business Automation skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Business Automation skill category. Use when working with google sheets automation functionality. Trigger with phrases like "google sheets automation", "google automation", "google".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Google Sheets Automation

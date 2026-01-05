@@ -1,12 +1,12 @@
 ---
-name: cursor-upgrade-migration
+name: "cursor-upgrade-migration"
 description: |
   Upgrade Cursor versions and migrate settings. Triggers on "upgrade cursor",
-  "update cursor", "cursor migration", "cursor new version", "cursor changelog".
-allowed-tools: Read, Write, Edit, Bash
+  "update cursor", "cursor migration", "cursor new version", "cursor changelog". Use when working with cursor upgrade migration functionality. Trigger with phrases like "cursor upgrade migration", "cursor migration", "cursor".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Cursor Upgrade & Migration Guide

@@ -1,13 +1,13 @@
 ---
-name: cost-optimization-analyzer
+name: "cost-optimization-analyzer"
 description: |
   Cost Optimization Analyzer - Auto-activating skill for AWS Skills.
   Triggers on: cost optimization analyzer, cost optimization analyzer
-  Part of the AWS Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(aws:*)
+  Part of the AWS Skills skill category. Use when analyzing or auditing cost optimization analyzer. Trigger with phrases like "cost optimization analyzer", "cost analyzer", "analyze cost optimization r".
+allowed-tools: "Read, Write, Edit, Bash(aws:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Cost Optimization Analyzer

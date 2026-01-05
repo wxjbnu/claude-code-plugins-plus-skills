@@ -1,13 +1,13 @@
 ---
-name: docusaurus-config-setup
+name: "docusaurus-config-setup"
 description: |
   Docusaurus Config Setup - Auto-activating skill for Technical Documentation.
   Triggers on: docusaurus config setup, docusaurus config setup
-  Part of the Technical Documentation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Technical Documentation skill category. Use when configuring systems or services. Trigger with phrases like "docusaurus config setup", "docusaurus setup", "docusaurus".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Docusaurus Config Setup

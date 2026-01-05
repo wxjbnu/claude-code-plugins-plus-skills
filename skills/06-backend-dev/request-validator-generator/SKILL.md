@@ -1,13 +1,13 @@
 ---
-name: request-validator-generator
+name: "request-validator-generator"
 description: |
   Request Validator Generator - Auto-activating skill for Backend Development.
   Triggers on: request validator generator, request validator generator
-  Part of the Backend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Backend Development skill category. Use when working with request validator generator functionality. Trigger with phrases like "request validator generator", "request generator", "request".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Request Validator Generator

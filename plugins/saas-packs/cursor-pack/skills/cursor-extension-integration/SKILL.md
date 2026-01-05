@@ -1,12 +1,12 @@
 ---
-name: cursor-extension-integration
+name: "cursor-extension-integration"
 description: |
   Integrate VS Code extensions with Cursor. Triggers on "cursor extensions",
-  "cursor vscode extensions", "cursor plugins", "cursor marketplace".
-allowed-tools: Read, Write, Edit, Bash
+  "cursor vscode extensions", "cursor plugins", "cursor marketplace". Use when working with cursor extension integration functionality. Trigger with phrases like "cursor extension integration", "cursor integration", "cursor".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Cursor Extension Integration

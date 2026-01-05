@@ -1,13 +1,13 @@
 ---
-name: makefile-generator
+name: "makefile-generator"
 description: |
   Makefile Generator - Auto-activating skill for DevOps Basics.
   Triggers on: makefile generator, makefile generator
-  Part of the DevOps Basics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Basics skill category. Use when working with makefile generator functionality. Trigger with phrases like "makefile generator", "makefile generator", "makefile".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Makefile Generator

@@ -1,13 +1,13 @@
 ---
-name: factory-pattern-creator
+name: "factory-pattern-creator"
 description: |
   Factory Pattern Creator - Auto-activating skill for Test Automation.
   Triggers on: factory pattern creator, factory pattern creator
-  Part of the Test Automation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Test Automation skill category. Use when working with factory pattern creator functionality. Trigger with phrases like "factory pattern creator", "factory creator", "factory".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Factory Pattern Creator

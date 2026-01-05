@@ -1,13 +1,13 @@
 ---
-name: contract-test-creator
+name: "contract-test-creator"
 description: |
   Contract Test Creator - Auto-activating skill for Test Automation.
   Triggers on: contract test creator, contract test creator
-  Part of the Test Automation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Test Automation skill category. Use when writing or running tests. Trigger with phrases like "contract test creator", "contract creator", "contract".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Contract Test Creator

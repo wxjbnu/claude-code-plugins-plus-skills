@@ -1,13 +1,13 @@
 ---
-name: spark-sql-optimizer
+name: "spark-sql-optimizer"
 description: |
   Spark Sql Optimizer - Auto-activating skill for Data Pipelines.
   Triggers on: spark sql optimizer, spark sql optimizer
-  Part of the Data Pipelines skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Pipelines skill category. Use when working with spark sql optimizer functionality. Trigger with phrases like "spark sql optimizer", "spark optimizer", "spark".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Spark Sql Optimizer

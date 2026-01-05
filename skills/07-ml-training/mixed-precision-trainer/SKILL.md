@@ -1,13 +1,13 @@
 ---
-name: mixed-precision-trainer
+name: "mixed-precision-trainer"
 description: |
   Mixed Precision Trainer - Auto-activating skill for ML Training.
   Triggers on: mixed precision trainer, mixed precision trainer
-  Part of the ML Training skill category.
-allowed-tools: Read, Write, Edit, Bash(python:*), Bash(pip:*)
+  Part of the ML Training skill category. Use when working with mixed precision trainer functionality. Trigger with phrases like "mixed precision trainer", "mixed trainer", "mixed".
+allowed-tools: "Read, Write, Edit, Bash(python:*), Bash(pip:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Mixed Precision Trainer

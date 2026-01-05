@@ -1,13 +1,13 @@
 ---
-name: discord-bot-generator
+name: "discord-bot-generator"
 description: |
   Discord Bot Generator - Auto-activating skill for Business Automation.
   Triggers on: discord bot generator, discord bot generator
-  Part of the Business Automation skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Business Automation skill category. Use when working with discord bot generator functionality. Trigger with phrases like "discord bot generator", "discord generator", "discord".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Discord Bot Generator

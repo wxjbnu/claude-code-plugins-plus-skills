@@ -1,13 +1,13 @@
 ---
-name: cloud-function-generator
+name: "cloud-function-generator"
 description: |
   Cloud Function Generator - Auto-activating skill for GCP Skills.
   Triggers on: cloud function generator, cloud function generator
-  Part of the GCP Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(gcloud:*)
+  Part of the GCP Skills skill category. Use when working with cloud function generator functionality. Trigger with phrases like "cloud function generator", "cloud generator", "cloud".
+allowed-tools: "Read, Write, Edit, Bash(gcloud:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Cloud Function Generator

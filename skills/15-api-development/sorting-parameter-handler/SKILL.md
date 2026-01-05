@@ -1,13 +1,13 @@
 ---
-name: sorting-parameter-handler
+name: "sorting-parameter-handler"
 description: |
   Sorting Parameter Handler - Auto-activating skill for API Development.
   Triggers on: sorting parameter handler, sorting parameter handler
-  Part of the API Development skill category.
-allowed-tools: Read, Write, Edit, Bash(curl:*), Grep
+  Part of the API Development skill category. Use when working with sorting parameter handler functionality. Trigger with phrases like "sorting parameter handler", "sorting handler", "sorting".
+allowed-tools: "Read, Write, Edit, Bash(curl:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Sorting Parameter Handler

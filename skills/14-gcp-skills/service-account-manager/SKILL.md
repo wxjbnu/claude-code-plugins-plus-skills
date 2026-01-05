@@ -1,13 +1,13 @@
 ---
-name: service-account-manager
+name: "service-account-manager"
 description: |
   Service Account Manager - Auto-activating skill for GCP Skills.
   Triggers on: service account manager, service account manager
-  Part of the GCP Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(gcloud:*)
+  Part of the GCP Skills skill category. Use when working with service account manager functionality. Trigger with phrases like "service account manager", "service manager", "service".
+allowed-tools: "Read, Write, Edit, Bash(gcloud:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Service Account Manager

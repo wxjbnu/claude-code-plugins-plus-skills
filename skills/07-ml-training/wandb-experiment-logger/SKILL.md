@@ -1,13 +1,13 @@
 ---
-name: wandb-experiment-logger
+name: "wandb-experiment-logger"
 description: |
   Wandb Experiment Logger - Auto-activating skill for ML Training.
   Triggers on: wandb experiment logger, wandb experiment logger
-  Part of the ML Training skill category.
-allowed-tools: Read, Write, Edit, Bash(python:*), Bash(pip:*)
+  Part of the ML Training skill category. Use when working with wandb experiment logger functionality. Trigger with phrases like "wandb experiment logger", "wandb logger", "wandb".
+allowed-tools: "Read, Write, Edit, Bash(python:*), Bash(pip:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Wandb Experiment Logger

@@ -1,13 +1,13 @@
 ---
-name: chart-type-recommender
+name: "chart-type-recommender"
 description: |
   Chart Type Recommender - Auto-activating skill for Data Analytics.
   Triggers on: chart type recommender, chart type recommender
-  Part of the Data Analytics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Analytics skill category. Use when working with chart type recommender functionality. Trigger with phrases like "chart type recommender", "chart recommender", "chart".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Chart Type Recommender

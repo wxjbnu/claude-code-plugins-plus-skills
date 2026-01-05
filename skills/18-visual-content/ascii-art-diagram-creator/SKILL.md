@@ -1,13 +1,13 @@
 ---
-name: ascii-art-diagram-creator
+name: "ascii-art-diagram-creator"
 description: |
   Ascii Art Diagram Creator - Auto-activating skill for Visual Content.
   Triggers on: ascii art diagram creator, ascii art diagram creator
-  Part of the Visual Content skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Visual Content skill category. Use when working with ascii art diagram creator functionality. Trigger with phrases like "ascii art diagram creator", "ascii creator", "ascii".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Ascii Art Diagram Creator

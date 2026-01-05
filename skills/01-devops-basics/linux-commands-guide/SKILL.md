@@ -1,13 +1,13 @@
 ---
-name: linux-commands-guide
+name: "linux-commands-guide"
 description: |
   Linux Commands Guide - Auto-activating skill for DevOps Basics.
   Triggers on: linux commands guide, linux commands guide
-  Part of the DevOps Basics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Basics skill category. Use when working with linux commands guide functionality. Trigger with phrases like "linux commands guide", "linux guide", "linux".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Linux Commands Guide

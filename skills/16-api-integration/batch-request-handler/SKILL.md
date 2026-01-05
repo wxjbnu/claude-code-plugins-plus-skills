@@ -1,13 +1,13 @@
 ---
-name: batch-request-handler
+name: "batch-request-handler"
 description: |
   Batch Request Handler - Auto-activating skill for API Integration.
   Triggers on: batch request handler, batch request handler
-  Part of the API Integration skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the API Integration skill category. Use when working with batch request handler functionality. Trigger with phrases like "batch request handler", "batch handler", "batch".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Batch Request Handler

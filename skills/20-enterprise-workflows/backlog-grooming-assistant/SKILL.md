@@ -1,13 +1,13 @@
 ---
-name: backlog-grooming-assistant
+name: "backlog-grooming-assistant"
 description: |
   Backlog Grooming Assistant - Auto-activating skill for Enterprise Workflows.
   Triggers on: backlog grooming assistant, backlog grooming assistant
-  Part of the Enterprise Workflows skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Enterprise Workflows skill category. Use when working with backlog grooming assistant functionality. Trigger with phrases like "backlog grooming assistant", "backlog assistant", "backlog".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Backlog Grooming Assistant

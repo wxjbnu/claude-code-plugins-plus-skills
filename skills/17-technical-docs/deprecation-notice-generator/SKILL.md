@@ -1,13 +1,13 @@
 ---
-name: deprecation-notice-generator
+name: "deprecation-notice-generator"
 description: |
   Deprecation Notice Generator - Auto-activating skill for Technical Documentation.
   Triggers on: deprecation notice generator, deprecation notice generator
-  Part of the Technical Documentation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Technical Documentation skill category. Use when working with deprecation notice generator functionality. Trigger with phrases like "deprecation notice generator", "deprecation generator", "deprecation".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Deprecation Notice Generator

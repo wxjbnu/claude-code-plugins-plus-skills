@@ -1,13 +1,13 @@
 ---
-name: dbt-test-creator
+name: "dbt-test-creator"
 description: |
   Dbt Test Creator - Auto-activating skill for Data Pipelines.
   Triggers on: dbt test creator, dbt test creator
-  Part of the Data Pipelines skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Pipelines skill category. Use when writing or running tests. Trigger with phrases like "dbt test creator", "dbt creator", "dbt".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Dbt Test Creator

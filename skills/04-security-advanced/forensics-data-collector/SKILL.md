@@ -1,13 +1,13 @@
 ---
-name: forensics-data-collector
+name: "forensics-data-collector"
 description: |
   Forensics Data Collector - Auto-activating skill for Security Advanced.
   Triggers on: forensics data collector, forensics data collector
-  Part of the Security Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Security Advanced skill category. Use when working with forensics data collector functionality. Trigger with phrases like "forensics data collector", "forensics collector", "forensics".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Forensics Data Collector

@@ -1,13 +1,13 @@
 ---
-name: circuit-breaker-setup
+name: "circuit-breaker-setup"
 description: |
   Circuit Breaker Setup - Auto-activating skill for API Integration.
   Triggers on: circuit breaker setup, circuit breaker setup
-  Part of the API Integration skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the API Integration skill category. Use when working with circuit breaker setup functionality. Trigger with phrases like "circuit breaker setup", "circuit setup", "circuit".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Circuit Breaker Setup

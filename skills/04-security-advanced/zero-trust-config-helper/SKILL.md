@@ -1,13 +1,13 @@
 ---
-name: zero-trust-config-helper
+name: "zero-trust-config-helper"
 description: |
   Zero Trust Config Helper - Auto-activating skill for Security Advanced.
   Triggers on: zero trust config helper, zero trust config helper
-  Part of the Security Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Security Advanced skill category. Use when configuring systems or services. Trigger with phrases like "zero trust config helper", "zero helper", "zero".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Zero Trust Config Helper

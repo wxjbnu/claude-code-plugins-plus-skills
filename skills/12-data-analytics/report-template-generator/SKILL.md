@@ -1,13 +1,13 @@
 ---
-name: report-template-generator
+name: "report-template-generator"
 description: |
   Report Template Generator - Auto-activating skill for Data Analytics.
   Triggers on: report template generator, report template generator
-  Part of the Data Analytics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Analytics skill category. Use when working with report template generator functionality. Trigger with phrases like "report template generator", "report generator", "report".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Report Template Generator

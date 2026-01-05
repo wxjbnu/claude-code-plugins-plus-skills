@@ -1,13 +1,13 @@
 ---
-name: dataset-loader-creator
+name: "dataset-loader-creator"
 description: |
   Dataset Loader Creator - Auto-activating skill for ML Training.
   Triggers on: dataset loader creator, dataset loader creator
-  Part of the ML Training skill category.
-allowed-tools: Read, Write, Edit, Bash(python:*), Bash(pip:*)
+  Part of the ML Training skill category. Use when working with dataset loader creator functionality. Trigger with phrases like "dataset loader creator", "dataset creator", "dataset".
+allowed-tools: "Read, Write, Edit, Bash(python:*), Bash(pip:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Dataset Loader Creator

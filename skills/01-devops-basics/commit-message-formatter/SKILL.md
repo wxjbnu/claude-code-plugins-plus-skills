@@ -1,13 +1,13 @@
 ---
-name: commit-message-formatter
+name: "commit-message-formatter"
 description: |
   Commit Message Formatter - Auto-activating skill for DevOps Basics.
   Triggers on: commit message formatter, commit message formatter
-  Part of the DevOps Basics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Basics skill category. Use when working with commit message formatter functionality. Trigger with phrases like "commit message formatter", "commit formatter", "commit".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Commit Message Formatter

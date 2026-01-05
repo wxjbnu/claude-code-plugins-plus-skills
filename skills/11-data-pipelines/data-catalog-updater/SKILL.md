@@ -1,13 +1,13 @@
 ---
-name: data-catalog-updater
+name: "data-catalog-updater"
 description: |
   Data Catalog Updater - Auto-activating skill for Data Pipelines.
   Triggers on: data catalog updater, data catalog updater
-  Part of the Data Pipelines skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Pipelines skill category. Use when working with data catalog updater functionality. Trigger with phrases like "data catalog updater", "data updater", "data".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Data Catalog Updater

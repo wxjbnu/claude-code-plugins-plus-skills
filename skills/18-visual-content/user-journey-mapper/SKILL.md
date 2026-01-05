@@ -1,13 +1,13 @@
 ---
-name: user-journey-mapper
+name: "user-journey-mapper"
 description: |
   User Journey Mapper - Auto-activating skill for Visual Content.
   Triggers on: user journey mapper, user journey mapper
-  Part of the Visual Content skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Visual Content skill category. Use when working with user journey mapper functionality. Trigger with phrases like "user journey mapper", "user mapper", "user".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # User Journey Mapper

@@ -1,13 +1,13 @@
 ---
-name: snapshot-test-helper
+name: "snapshot-test-helper"
 description: |
   Snapshot Test Helper - Auto-activating skill for Test Automation.
   Triggers on: snapshot test helper, snapshot test helper
-  Part of the Test Automation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Test Automation skill category. Use when writing or running tests. Trigger with phrases like "snapshot test helper", "snapshot helper", "snapshot".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Snapshot Test Helper

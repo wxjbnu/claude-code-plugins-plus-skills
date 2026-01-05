@@ -1,13 +1,13 @@
 ---
-name: time-series-decomposer
+name: "time-series-decomposer"
 description: |
   Time Series Decomposer - Auto-activating skill for Data Analytics.
   Triggers on: time series decomposer, time series decomposer
-  Part of the Data Analytics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Analytics skill category. Use when working with time series decomposer functionality. Trigger with phrases like "time series decomposer", "time decomposer", "time".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Time Series Decomposer

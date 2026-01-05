@@ -1,13 +1,13 @@
 ---
-name: response-time-analyzer
+name: "response-time-analyzer"
 description: |
   Response Time Analyzer - Auto-activating skill for Performance Testing.
   Triggers on: response time analyzer, response time analyzer
-  Part of the Performance Testing skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Performance Testing skill category. Use when analyzing or auditing response time analyzer. Trigger with phrases like "response time analyzer", "response analyzer", "analyze response time r".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Response Time Analyzer

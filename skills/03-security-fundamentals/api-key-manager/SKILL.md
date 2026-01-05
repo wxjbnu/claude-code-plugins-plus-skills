@@ -1,13 +1,13 @@
 ---
-name: api-key-manager
+name: "api-key-manager"
 description: |
   Api Key Manager - Auto-activating skill for Security Fundamentals.
   Triggers on: api key manager, api key manager
-  Part of the Security Fundamentals skill category.
-allowed-tools: Read, Write, Grep, Bash(npm:*)
+  Part of the Security Fundamentals skill category. Use when working with APIs or building integrations. Trigger with phrases like "api key manager", "api manager", "api".
+allowed-tools: "Read, Write, Grep, Bash(npm:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Api Key Manager

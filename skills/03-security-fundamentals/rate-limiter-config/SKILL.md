@@ -1,13 +1,13 @@
 ---
-name: rate-limiter-config
+name: "rate-limiter-config"
 description: |
   Rate Limiter Config - Auto-activating skill for Security Fundamentals.
   Triggers on: rate limiter config, rate limiter config
-  Part of the Security Fundamentals skill category.
-allowed-tools: Read, Write, Grep, Bash(npm:*)
+  Part of the Security Fundamentals skill category. Use when configuring systems or services. Trigger with phrases like "rate limiter config", "rate config", "rate".
+allowed-tools: "Read, Write, Grep, Bash(npm:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Rate Limiter Config

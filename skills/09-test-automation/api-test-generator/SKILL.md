@@ -1,13 +1,13 @@
 ---
-name: api-test-generator
+name: "api-test-generator"
 description: |
   Api Test Generator - Auto-activating skill for Test Automation.
   Triggers on: api test generator, api test generator
-  Part of the Test Automation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Test Automation skill category. Use when working with APIs or building integrations. Trigger with phrases like "api test generator", "api generator", "api".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Api Test Generator

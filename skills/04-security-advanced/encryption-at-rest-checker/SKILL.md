@@ -1,13 +1,13 @@
 ---
-name: encryption-at-rest-checker
+name: "encryption-at-rest-checker"
 description: |
   Encryption At Rest Checker - Auto-activating skill for Security Advanced.
   Triggers on: encryption at rest checker, encryption at rest checker
-  Part of the Security Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Security Advanced skill category. Use when working with encryption at rest checker functionality. Trigger with phrases like "encryption at rest checker", "encryption checker", "encryption".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Encryption At Rest Checker

@@ -1,13 +1,13 @@
 ---
-name: express-route-generator
+name: "express-route-generator"
 description: |
   Express Route Generator - Auto-activating skill for Backend Development.
   Triggers on: express route generator, express route generator
-  Part of the Backend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Backend Development skill category. Use when working with express route generator functionality. Trigger with phrases like "express route generator", "express generator", "express".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Express Route Generator

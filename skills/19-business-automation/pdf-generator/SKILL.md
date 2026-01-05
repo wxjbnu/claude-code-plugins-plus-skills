@@ -1,13 +1,13 @@
 ---
-name: pdf-generator
+name: "pdf-generator"
 description: |
   Pdf Generator - Auto-activating skill for Business Automation.
   Triggers on: pdf generator, pdf generator
-  Part of the Business Automation skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Business Automation skill category. Use when working with pdf generator functionality. Trigger with phrases like "pdf generator", "pdf generator", "pdf".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Pdf Generator

@@ -1,13 +1,13 @@
 ---
-name: model-registry-manager
+name: "model-registry-manager"
 description: |
   Model Registry Manager - Auto-activating skill for ML Deployment.
   Triggers on: model registry manager, model registry manager
-  Part of the ML Deployment skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the ML Deployment skill category. Use when working with model registry manager functionality. Trigger with phrases like "model registry manager", "model manager", "model".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Model Registry Manager

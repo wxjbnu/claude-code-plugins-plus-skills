@@ -1,13 +1,13 @@
 ---
-name: spy-setup-helper
+name: "spy-setup-helper"
 description: |
   Spy Setup Helper - Auto-activating skill for Test Automation.
   Triggers on: spy setup helper, spy setup helper
-  Part of the Test Automation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Test Automation skill category. Use when working with spy setup helper functionality. Trigger with phrases like "spy setup helper", "spy helper", "spy".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Spy Setup Helper

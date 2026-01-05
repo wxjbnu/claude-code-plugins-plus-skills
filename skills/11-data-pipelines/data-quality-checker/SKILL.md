@@ -1,13 +1,13 @@
 ---
-name: data-quality-checker
+name: "data-quality-checker"
 description: |
   Data Quality Checker - Auto-activating skill for Data Pipelines.
   Triggers on: data quality checker, data quality checker
-  Part of the Data Pipelines skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Pipelines skill category. Use when working with data quality checker functionality. Trigger with phrases like "data quality checker", "data checker", "data".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Data Quality Checker

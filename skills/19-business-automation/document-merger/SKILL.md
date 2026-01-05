@@ -1,13 +1,13 @@
 ---
-name: document-merger
+name: "document-merger"
 description: |
   Document Merger - Auto-activating skill for Business Automation.
   Triggers on: document merger, document merger
-  Part of the Business Automation skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Business Automation skill category. Use when working with document merger functionality. Trigger with phrases like "document merger", "document merger", "document".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Document Merger

@@ -1,13 +1,13 @@
 ---
-name: webhook-retry-handler
+name: "webhook-retry-handler"
 description: |
   Webhook Retry Handler - Auto-activating skill for API Integration.
   Triggers on: webhook retry handler, webhook retry handler
-  Part of the API Integration skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the API Integration skill category. Use when working with webhook retry handler functionality. Trigger with phrases like "webhook retry handler", "webhook handler", "webhook".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Webhook Retry Handler

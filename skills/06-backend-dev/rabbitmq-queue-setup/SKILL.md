@@ -1,13 +1,13 @@
 ---
-name: rabbitmq-queue-setup
+name: "rabbitmq-queue-setup"
 description: |
   Rabbitmq Queue Setup - Auto-activating skill for Backend Development.
   Triggers on: rabbitmq queue setup, rabbitmq queue setup
-  Part of the Backend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Backend Development skill category. Use when working with rabbitmq queue setup functionality. Trigger with phrases like "rabbitmq queue setup", "rabbitmq setup", "rabbitmq".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Rabbitmq Queue Setup

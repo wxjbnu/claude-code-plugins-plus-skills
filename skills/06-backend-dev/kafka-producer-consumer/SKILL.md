@@ -1,13 +1,13 @@
 ---
-name: kafka-producer-consumer
+name: "kafka-producer-consumer"
 description: |
   Kafka Producer Consumer - Auto-activating skill for Backend Development.
   Triggers on: kafka producer consumer, kafka producer consumer
-  Part of the Backend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Backend Development skill category. Use when working with kafka producer consumer functionality. Trigger with phrases like "kafka producer consumer", "kafka consumer", "kafka".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Kafka Producer Consumer

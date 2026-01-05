@@ -1,13 +1,13 @@
 ---
-name: cloudfront-distribution-setup
+name: "cloudfront-distribution-setup"
 description: |
   Cloudfront Distribution Setup - Auto-activating skill for AWS Skills.
   Triggers on: cloudfront distribution setup, cloudfront distribution setup
-  Part of the AWS Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(aws:*)
+  Part of the AWS Skills skill category. Use when working with cloudfront distribution setup functionality. Trigger with phrases like "cloudfront distribution setup", "cloudfront setup", "cloudfront".
+allowed-tools: "Read, Write, Edit, Bash(aws:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Cloudfront Distribution Setup

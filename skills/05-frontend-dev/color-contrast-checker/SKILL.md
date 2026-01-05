@@ -1,13 +1,13 @@
 ---
-name: color-contrast-checker
+name: "color-contrast-checker"
 description: |
   Color Contrast Checker - Auto-activating skill for Frontend Development.
   Triggers on: color contrast checker, color contrast checker
-  Part of the Frontend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Frontend Development skill category. Use when working with color contrast checker functionality. Trigger with phrases like "color contrast checker", "color checker", "color".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Color Contrast Checker

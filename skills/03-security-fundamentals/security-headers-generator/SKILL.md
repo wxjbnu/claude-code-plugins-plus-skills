@@ -1,13 +1,13 @@
 ---
-name: security-headers-generator
+name: "security-headers-generator"
 description: |
   Security Headers Generator - Auto-activating skill for Security Fundamentals.
   Triggers on: security headers generator, security headers generator
-  Part of the Security Fundamentals skill category.
-allowed-tools: Read, Write, Grep, Bash(npm:*)
+  Part of the Security Fundamentals skill category. Use when working with security headers generator functionality. Trigger with phrases like "security headers generator", "security generator", "security".
+allowed-tools: "Read, Write, Grep, Bash(npm:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Security Headers Generator

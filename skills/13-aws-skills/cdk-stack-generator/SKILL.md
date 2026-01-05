@@ -1,13 +1,13 @@
 ---
-name: cdk-stack-generator
+name: "cdk-stack-generator"
 description: |
   Cdk Stack Generator - Auto-activating skill for AWS Skills.
   Triggers on: cdk stack generator, cdk stack generator
-  Part of the AWS Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(aws:*)
+  Part of the AWS Skills skill category. Use when working with cdk stack generator functionality. Trigger with phrases like "cdk stack generator", "cdk generator", "cdk".
+allowed-tools: "Read, Write, Edit, Bash(aws:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Cdk Stack Generator

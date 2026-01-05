@@ -1,13 +1,13 @@
 ---
-name: churn-analysis-helper
+name: "churn-analysis-helper"
 description: |
   Churn Analysis Helper - Auto-activating skill for Data Analytics.
   Triggers on: churn analysis helper, churn analysis helper
-  Part of the Data Analytics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Analytics skill category. Use when working with churn analysis helper functionality. Trigger with phrases like "churn analysis helper", "churn helper", "churn".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Churn Analysis Helper

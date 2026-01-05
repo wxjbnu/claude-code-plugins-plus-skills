@@ -1,13 +1,13 @@
 ---
-name: roadmap-generator
+name: "roadmap-generator"
 description: |
   Roadmap Generator - Auto-activating skill for Enterprise Workflows.
   Triggers on: roadmap generator, roadmap generator
-  Part of the Enterprise Workflows skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Enterprise Workflows skill category. Use when working with roadmap generator functionality. Trigger with phrases like "roadmap generator", "roadmap generator", "roadmap".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Roadmap Generator

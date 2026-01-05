@@ -1,13 +1,13 @@
 ---
-name: cloud-run-service-config
+name: "cloud-run-service-config"
 description: |
   Cloud Run Service Config - Auto-activating skill for GCP Skills.
   Triggers on: cloud run service config, cloud run service config
-  Part of the GCP Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(gcloud:*)
+  Part of the GCP Skills skill category. Use when configuring systems or services. Trigger with phrases like "cloud run service config", "cloud config", "cloud".
+allowed-tools: "Read, Write, Edit, Bash(gcloud:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Cloud Run Service Config

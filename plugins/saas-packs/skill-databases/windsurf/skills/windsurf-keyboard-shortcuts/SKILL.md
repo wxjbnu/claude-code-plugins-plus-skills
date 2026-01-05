@@ -1,13 +1,13 @@
 ---
-name: windsurf-keyboard-shortcuts
+name: "windsurf-keyboard-shortcuts"
 description: |
   Configure custom keyboard shortcuts for Cascade and AI features. Activate when users mention
   "keyboard shortcuts", "keybindings", "hotkeys", "shortcut configuration",
-  or "customize shortcuts". Handles keybinding setup and optimization.
+  or "customize shortcuts". Handles keybinding setup and optimization. Use when working with windsurf keyboard shortcuts functionality. Trigger with phrases like "windsurf keyboard shortcuts", "windsurf shortcuts", "windsurf".
 allowed-tools: Read,Write,Edit
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Windsurf Keyboard Shortcuts

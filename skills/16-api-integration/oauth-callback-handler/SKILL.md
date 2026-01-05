@@ -1,13 +1,13 @@
 ---
-name: oauth-callback-handler
+name: "oauth-callback-handler"
 description: |
   Oauth Callback Handler - Auto-activating skill for API Integration.
   Triggers on: oauth callback handler, oauth callback handler
-  Part of the API Integration skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the API Integration skill category. Use when working with oauth callback handler functionality. Trigger with phrases like "oauth callback handler", "oauth handler", "oauth".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Oauth Callback Handler

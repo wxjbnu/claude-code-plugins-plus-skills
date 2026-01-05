@@ -1,13 +1,13 @@
 ---
-name: bottleneck-identifier
+name: "bottleneck-identifier"
 description: |
   Bottleneck Identifier - Auto-activating skill for Performance Testing.
   Triggers on: bottleneck identifier, bottleneck identifier
-  Part of the Performance Testing skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Performance Testing skill category. Use when working with bottleneck identifier functionality. Trigger with phrases like "bottleneck identifier", "bottleneck identifier", "bottleneck".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Bottleneck Identifier

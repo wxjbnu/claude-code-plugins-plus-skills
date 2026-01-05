@@ -1,13 +1,13 @@
 ---
-name: elasticache-config
+name: "elasticache-config"
 description: |
   Elasticache Config - Auto-activating skill for AWS Skills.
   Triggers on: elasticache config, elasticache config
-  Part of the AWS Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(aws:*)
+  Part of the AWS Skills skill category. Use when configuring systems or services. Trigger with phrases like "elasticache config", "elasticache config", "elasticache".
+allowed-tools: "Read, Write, Edit, Bash(aws:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Elasticache Config

@@ -1,13 +1,13 @@
 ---
-name: css-module-generator
+name: "css-module-generator"
 description: |
   Css Module Generator - Auto-activating skill for Frontend Development.
   Triggers on: css module generator, css module generator
-  Part of the Frontend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Frontend Development skill category. Use when working with css module generator functionality. Trigger with phrases like "css module generator", "css generator", "css".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Css Module Generator

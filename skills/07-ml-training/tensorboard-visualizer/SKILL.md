@@ -1,13 +1,13 @@
 ---
-name: tensorboard-visualizer
+name: "tensorboard-visualizer"
 description: |
   Tensorboard Visualizer - Auto-activating skill for ML Training.
   Triggers on: tensorboard visualizer, tensorboard visualizer
-  Part of the ML Training skill category.
-allowed-tools: Read, Write, Edit, Bash(python:*), Bash(pip:*)
+  Part of the ML Training skill category. Use when working with tensorboard visualizer functionality. Trigger with phrases like "tensorboard visualizer", "tensorboard visualizer", "tensorboard".
+allowed-tools: "Read, Write, Edit, Bash(python:*), Bash(pip:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Tensorboard Visualizer

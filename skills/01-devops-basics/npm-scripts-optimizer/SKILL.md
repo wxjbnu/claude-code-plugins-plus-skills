@@ -1,13 +1,13 @@
 ---
-name: npm-scripts-optimizer
+name: "npm-scripts-optimizer"
 description: |
   Npm Scripts Optimizer - Auto-activating skill for DevOps Basics.
   Triggers on: npm scripts optimizer, npm scripts optimizer
-  Part of the DevOps Basics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Basics skill category. Use when working with npm scripts optimizer functionality. Trigger with phrases like "npm scripts optimizer", "npm optimizer", "npm".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Npm Scripts Optimizer

@@ -1,13 +1,13 @@
 ---
-name: tensorflow-savedmodel-creator
+name: "tensorflow-savedmodel-creator"
 description: |
   Tensorflow Savedmodel Creator - Auto-activating skill for ML Deployment.
   Triggers on: tensorflow savedmodel creator, tensorflow savedmodel creator
-  Part of the ML Deployment skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the ML Deployment skill category. Use when working with tensorflow savedmodel creator functionality. Trigger with phrases like "tensorflow savedmodel creator", "tensorflow creator", "tensorflow".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Tensorflow Savedmodel Creator

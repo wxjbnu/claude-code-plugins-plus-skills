@@ -1,13 +1,13 @@
 ---
-name: attack-surface-analyzer
+name: "attack-surface-analyzer"
 description: |
   Attack Surface Analyzer - Auto-activating skill for Security Advanced.
   Triggers on: attack surface analyzer, attack surface analyzer
-  Part of the Security Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Security Advanced skill category. Use when analyzing or auditing attack surface analyzer. Trigger with phrases like "attack surface analyzer", "attack analyzer", "analyze attack surface r".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Attack Surface Analyzer

@@ -1,13 +1,13 @@
 ---
-name: model-versioning-manager
+name: "model-versioning-manager"
 description: |
   Model Versioning Manager - Auto-activating skill for ML Deployment.
   Triggers on: model versioning manager, model versioning manager
-  Part of the ML Deployment skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the ML Deployment skill category. Use when working with model versioning manager functionality. Trigger with phrases like "model versioning manager", "model manager", "model".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Model Versioning Manager

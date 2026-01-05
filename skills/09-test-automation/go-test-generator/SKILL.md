@@ -1,13 +1,13 @@
 ---
-name: go-test-generator
+name: "go-test-generator"
 description: |
   Go Test Generator - Auto-activating skill for Test Automation.
   Triggers on: go test generator, go test generator
-  Part of the Test Automation skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Test Automation skill category. Use when writing or running tests. Trigger with phrases like "go test generator", "go generator", "go".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Go Test Generator

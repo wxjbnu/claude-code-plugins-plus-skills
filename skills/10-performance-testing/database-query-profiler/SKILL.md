@@ -1,13 +1,13 @@
 ---
-name: database-query-profiler
+name: "database-query-profiler"
 description: |
   Database Query Profiler - Auto-activating skill for Performance Testing.
   Triggers on: database query profiler, database query profiler
-  Part of the Performance Testing skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Performance Testing skill category. Use when working with database query profiler functionality. Trigger with phrases like "database query profiler", "database profiler", "database".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Database Query Profiler

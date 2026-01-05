@@ -1,13 +1,13 @@
 ---
-name: docker-container-basics
+name: "docker-container-basics"
 description: |
   Docker Container Basics - Auto-activating skill for DevOps Basics.
   Triggers on: docker container basics, docker container basics
-  Part of the DevOps Basics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Basics skill category. Use when working with docker container basics functionality. Trigger with phrases like "docker container basics", "docker basics", "docker".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Docker Container Basics

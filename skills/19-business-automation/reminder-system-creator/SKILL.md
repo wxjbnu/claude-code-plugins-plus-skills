@@ -1,13 +1,13 @@
 ---
-name: reminder-system-creator
+name: "reminder-system-creator"
 description: |
   Reminder System Creator - Auto-activating skill for Business Automation.
   Triggers on: reminder system creator, reminder system creator
-  Part of the Business Automation skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Business Automation skill category. Use when working with reminder system creator functionality. Trigger with phrases like "reminder system creator", "reminder creator", "reminder".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Reminder System Creator

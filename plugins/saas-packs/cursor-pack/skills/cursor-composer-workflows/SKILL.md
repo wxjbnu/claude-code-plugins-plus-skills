@@ -1,12 +1,12 @@
 ---
-name: cursor-composer-workflows
+name: "cursor-composer-workflows"
 description: |
   Master Cursor Composer for multi-file AI edits. Triggers on "cursor composer",
-  "multi-file edit", "cursor generate files", "composer workflow", "cursor scaffold".
-allowed-tools: Read, Write, Edit, Bash
+  "multi-file edit", "cursor generate files", "composer workflow", "cursor scaffold". Use when working with cursor composer workflows functionality. Trigger with phrases like "cursor composer workflows", "cursor workflows", "cursor".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Cursor Composer Workflows

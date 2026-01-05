@@ -1,13 +1,13 @@
 ---
-name: bundle-size-analyzer
+name: "bundle-size-analyzer"
 description: |
   Bundle Size Analyzer - Auto-activating skill for Frontend Development.
   Triggers on: bundle size analyzer, bundle size analyzer
-  Part of the Frontend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Frontend Development skill category. Use when analyzing or auditing bundle size analyzer. Trigger with phrases like "bundle size analyzer", "bundle analyzer", "analyze bundle size r".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Bundle Size Analyzer

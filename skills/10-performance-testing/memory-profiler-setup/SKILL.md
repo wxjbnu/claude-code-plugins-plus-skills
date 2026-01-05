@@ -1,13 +1,13 @@
 ---
-name: memory-profiler-setup
+name: "memory-profiler-setup"
 description: |
   Memory Profiler Setup - Auto-activating skill for Performance Testing.
   Triggers on: memory profiler setup, memory profiler setup
-  Part of the Performance Testing skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Performance Testing skill category. Use when working with memory profiler setup functionality. Trigger with phrases like "memory profiler setup", "memory setup", "memory".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Memory Profiler Setup

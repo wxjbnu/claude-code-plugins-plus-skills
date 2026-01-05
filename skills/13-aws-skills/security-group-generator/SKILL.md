@@ -1,13 +1,13 @@
 ---
-name: security-group-generator
+name: "security-group-generator"
 description: |
   Security Group Generator - Auto-activating skill for AWS Skills.
   Triggers on: security group generator, security group generator
-  Part of the AWS Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(aws:*)
+  Part of the AWS Skills skill category. Use when working with security group generator functionality. Trigger with phrases like "security group generator", "security generator", "security".
+allowed-tools: "Read, Write, Edit, Bash(aws:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Security Group Generator

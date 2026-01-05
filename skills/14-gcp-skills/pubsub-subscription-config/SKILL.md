@@ -1,13 +1,13 @@
 ---
-name: pubsub-subscription-config
+name: "pubsub-subscription-config"
 description: |
   Pubsub Subscription Config - Auto-activating skill for GCP Skills.
   Triggers on: pubsub subscription config, pubsub subscription config
-  Part of the GCP Skills skill category.
-allowed-tools: Read, Write, Edit, Bash(gcloud:*)
+  Part of the GCP Skills skill category. Use when configuring systems or services. Trigger with phrases like "pubsub subscription config", "pubsub config", "pubsub".
+allowed-tools: "Read, Write, Edit, Bash(gcloud:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Pubsub Subscription Config

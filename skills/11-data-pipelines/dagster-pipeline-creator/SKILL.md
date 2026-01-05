@@ -1,13 +1,13 @@
 ---
-name: dagster-pipeline-creator
+name: "dagster-pipeline-creator"
 description: |
   Dagster Pipeline Creator - Auto-activating skill for Data Pipelines.
   Triggers on: dagster pipeline creator, dagster pipeline creator
-  Part of the Data Pipelines skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Pipelines skill category. Use when working with dagster pipeline creator functionality. Trigger with phrases like "dagster pipeline creator", "dagster creator", "dagster".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Dagster Pipeline Creator

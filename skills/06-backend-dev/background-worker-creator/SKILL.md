@@ -1,13 +1,13 @@
 ---
-name: background-worker-creator
+name: "background-worker-creator"
 description: |
   Background Worker Creator - Auto-activating skill for Backend Development.
   Triggers on: background worker creator, background worker creator
-  Part of the Backend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Backend Development skill category. Use when working with background worker creator functionality. Trigger with phrases like "background worker creator", "background creator", "background".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Background Worker Creator

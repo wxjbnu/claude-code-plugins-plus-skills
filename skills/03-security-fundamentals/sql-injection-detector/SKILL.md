@@ -1,13 +1,13 @@
 ---
-name: sql-injection-detector
+name: "sql-injection-detector"
 description: |
   Sql Injection Detector - Auto-activating skill for Security Fundamentals.
   Triggers on: sql injection detector, sql injection detector
-  Part of the Security Fundamentals skill category.
-allowed-tools: Read, Write, Grep, Bash(npm:*)
+  Part of the Security Fundamentals skill category. Use when working with sql injection detector functionality. Trigger with phrases like "sql injection detector", "sql detector", "sql".
+allowed-tools: "Read, Write, Grep, Bash(npm:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Sql Injection Detector

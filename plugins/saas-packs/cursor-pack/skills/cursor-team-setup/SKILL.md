@@ -1,12 +1,12 @@
 ---
-name: cursor-team-setup
+name: "cursor-team-setup"
 description: |
   Set up Cursor for teams and organizations. Triggers on "cursor team",
-  "cursor organization", "cursor business", "cursor enterprise setup".
-allowed-tools: Read, Write, Edit, Bash
+  "cursor organization", "cursor business", "cursor enterprise setup". Use when working with cursor team setup functionality. Trigger with phrases like "cursor team setup", "cursor setup", "cursor".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Cursor Team & Organization Setup

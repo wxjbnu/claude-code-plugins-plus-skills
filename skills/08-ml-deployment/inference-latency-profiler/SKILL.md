@@ -1,13 +1,13 @@
 ---
-name: inference-latency-profiler
+name: "inference-latency-profiler"
 description: |
   Inference Latency Profiler - Auto-activating skill for ML Deployment.
   Triggers on: inference latency profiler, inference latency profiler
-  Part of the ML Deployment skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the ML Deployment skill category. Use when working with inference latency profiler functionality. Trigger with phrases like "inference latency profiler", "inference profiler", "inference".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Inference Latency Profiler

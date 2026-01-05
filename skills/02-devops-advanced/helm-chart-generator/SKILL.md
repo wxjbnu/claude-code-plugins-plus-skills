@@ -1,13 +1,13 @@
 ---
-name: helm-chart-generator
+name: "helm-chart-generator"
 description: |
   Helm Chart Generator - Auto-activating skill for DevOps Advanced.
   Triggers on: helm chart generator, helm chart generator
-  Part of the DevOps Advanced skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Advanced skill category. Use when working with helm chart generator functionality. Trigger with phrases like "helm chart generator", "helm generator", "helm".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Helm Chart Generator

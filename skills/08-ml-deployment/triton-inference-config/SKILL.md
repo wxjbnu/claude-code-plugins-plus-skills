@@ -1,13 +1,13 @@
 ---
-name: triton-inference-config
+name: "triton-inference-config"
 description: |
   Triton Inference Config - Auto-activating skill for ML Deployment.
   Triggers on: triton inference config, triton inference config
-  Part of the ML Deployment skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the ML Deployment skill category. Use when configuring systems or services. Trigger with phrases like "triton inference config", "triton config", "triton".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Triton Inference Config

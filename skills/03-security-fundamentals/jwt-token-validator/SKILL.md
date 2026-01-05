@@ -1,13 +1,13 @@
 ---
-name: jwt-token-validator
+name: "jwt-token-validator"
 description: |
   Jwt Token Validator - Auto-activating skill for Security Fundamentals.
   Triggers on: jwt token validator, jwt token validator
-  Part of the Security Fundamentals skill category.
-allowed-tools: Read, Write, Grep, Bash(npm:*)
+  Part of the Security Fundamentals skill category. Use when working with jwt token validator functionality. Trigger with phrases like "jwt token validator", "jwt validator", "jwt".
+allowed-tools: "Read, Write, Grep, Bash(npm:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Jwt Token Validator

@@ -1,13 +1,13 @@
 ---
-name: correlation-analyzer
+name: "correlation-analyzer"
 description: |
   Correlation Analyzer - Auto-activating skill for Data Analytics.
   Triggers on: correlation analyzer, correlation analyzer
-  Part of the Data Analytics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Analytics skill category. Use when analyzing or auditing correlation analyzer. Trigger with phrases like "correlation analyzer", "correlation analyzer", "analyze correlation r".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Correlation Analyzer

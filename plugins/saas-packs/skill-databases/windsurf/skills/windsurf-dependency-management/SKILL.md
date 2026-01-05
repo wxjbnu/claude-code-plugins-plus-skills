@@ -1,13 +1,13 @@
 ---
-name: windsurf-dependency-management
+name: "windsurf-dependency-management"
 description: |
   Analyze and update dependencies with vulnerability scanning. Activate when users mention
   "update dependencies", "security audit", "npm audit", "vulnerability scan",
-  or "dependency updates". Handles dependency analysis and updates.
-allowed-tools: Read,Write,Edit,Bash,Grep
+  or "dependency updates". Handles dependency analysis and updates. Use when working with windsurf dependency management functionality. Trigger with phrases like "windsurf dependency management", "windsurf management", "windsurf".
+allowed-tools: "Read,Write,Edit,Bash(cmd:*),Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Windsurf Dependency Management

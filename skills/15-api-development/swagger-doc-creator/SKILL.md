@@ -1,13 +1,13 @@
 ---
-name: swagger-doc-creator
+name: "swagger-doc-creator"
 description: |
   Swagger Doc Creator - Auto-activating skill for API Development.
   Triggers on: swagger doc creator, swagger doc creator
-  Part of the API Development skill category.
-allowed-tools: Read, Write, Edit, Bash(curl:*), Grep
+  Part of the API Development skill category. Use when working with swagger doc creator functionality. Trigger with phrases like "swagger doc creator", "swagger creator", "swagger".
+allowed-tools: "Read, Write, Edit, Bash(curl:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Swagger Doc Creator

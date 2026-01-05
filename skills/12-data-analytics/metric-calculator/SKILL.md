@@ -1,13 +1,13 @@
 ---
-name: metric-calculator
+name: "metric-calculator"
 description: |
   Metric Calculator - Auto-activating skill for Data Analytics.
   Triggers on: metric calculator, metric calculator
-  Part of the Data Analytics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Data Analytics skill category. Use when working with metric calculator functionality. Trigger with phrases like "metric calculator", "metric calculator", "metric".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Metric Calculator

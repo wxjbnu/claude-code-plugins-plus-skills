@@ -1,13 +1,13 @@
 ---
-name: responsive-breakpoint-analyzer
+name: "responsive-breakpoint-analyzer"
 description: |
   Responsive Breakpoint Analyzer - Auto-activating skill for Frontend Development.
   Triggers on: responsive breakpoint analyzer, responsive breakpoint analyzer
-  Part of the Frontend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Frontend Development skill category. Use when analyzing or auditing responsive breakpoint analyzer. Trigger with phrases like "responsive breakpoint analyzer", "responsive analyzer", "analyze responsive breakpoint r".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Responsive Breakpoint Analyzer

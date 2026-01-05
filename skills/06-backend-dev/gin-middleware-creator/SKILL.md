@@ -1,13 +1,13 @@
 ---
-name: gin-middleware-creator
+name: "gin-middleware-creator"
 description: |
   Gin Middleware Creator - Auto-activating skill for Backend Development.
   Triggers on: gin middleware creator, gin middleware creator
-  Part of the Backend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Backend Development skill category. Use when working with gin middleware creator functionality. Trigger with phrases like "gin middleware creator", "gin creator", "gin".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Gin Middleware Creator

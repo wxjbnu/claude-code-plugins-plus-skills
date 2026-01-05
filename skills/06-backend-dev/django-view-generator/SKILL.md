@@ -1,13 +1,13 @@
 ---
-name: django-view-generator
+name: "django-view-generator"
 description: |
   Django View Generator - Auto-activating skill for Backend Development.
   Triggers on: django view generator, django view generator
-  Part of the Backend Development skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the Backend Development skill category. Use when working with django view generator functionality. Trigger with phrases like "django view generator", "django generator", "django".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Django View Generator

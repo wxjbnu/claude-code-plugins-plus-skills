@@ -1,13 +1,13 @@
 ---
-name: early-stopping-callback
+name: "early-stopping-callback"
 description: |
   Early Stopping Callback - Auto-activating skill for ML Training.
   Triggers on: early stopping callback, early stopping callback
-  Part of the ML Training skill category.
-allowed-tools: Read, Write, Edit, Bash(python:*), Bash(pip:*)
+  Part of the ML Training skill category. Use when working with early stopping callback functionality. Trigger with phrases like "early stopping callback", "early callback", "early".
+allowed-tools: "Read, Write, Edit, Bash(python:*), Bash(pip:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Early Stopping Callback

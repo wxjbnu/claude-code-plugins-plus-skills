@@ -1,13 +1,13 @@
 ---
-name: gitignore-generator
+name: "gitignore-generator"
 description: |
   Gitignore Generator - Auto-activating skill for DevOps Basics.
   Triggers on: gitignore generator, gitignore generator
-  Part of the DevOps Basics skill category.
-allowed-tools: Read, Write, Edit, Bash, Grep
+  Part of the DevOps Basics skill category. Use when working with gitignore generator functionality. Trigger with phrases like "gitignore generator", "gitignore generator", "gitignore".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*), Grep"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Gitignore Generator

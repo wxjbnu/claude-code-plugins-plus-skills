@@ -1,13 +1,13 @@
 ---
-name: definition-of-done-generator
+name: "definition-of-done-generator"
 description: |
   Definition Of Done Generator - Auto-activating skill for Enterprise Workflows.
   Triggers on: definition of done generator, definition of done generator
-  Part of the Enterprise Workflows skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Enterprise Workflows skill category. Use when working with definition of done generator functionality. Trigger with phrases like "definition of done generator", "definition generator", "definition".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Definition Of Done Generator

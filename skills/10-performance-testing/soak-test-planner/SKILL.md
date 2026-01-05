@@ -1,13 +1,13 @@
 ---
-name: soak-test-planner
+name: "soak-test-planner"
 description: |
   Soak Test Planner - Auto-activating skill for Performance Testing.
   Triggers on: soak test planner, soak test planner
-  Part of the Performance Testing skill category.
-allowed-tools: Read, Write, Edit, Bash
+  Part of the Performance Testing skill category. Use when writing or running tests. Trigger with phrases like "soak test planner", "soak planner", "soak".
+allowed-tools: "Read, Write, Edit, Bash(cmd:*)"
 version: 1.0.0
 license: MIT
-author: Jeremy Longshore <jeremy@intentsolutions.io>
+author: "Jeremy Longshore <jeremy@intentsolutions.io>"
 ---
 
 # Soak Test Planner
