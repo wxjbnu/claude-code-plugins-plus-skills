@@ -625,6 +625,7 @@ MIT License - See [000-docs/001-BL-LICN-license.txt](000-docs/001-BL-LICN-licens
 ## Acknowledgments
 
 - **Anthropic** - For creating Claude Code and the plugin system
+- **Richard Hightower** - For the 100-point skill grading rubric that improved our quality standards
 - **Community Contributors** - Everyone who submits plugins and improvements
 - **Early Adopters** - Users who provide feedback and help us improve
 
