@@ -59,6 +59,36 @@ sources:
       - "*.log"
 
   # ============================================================
+  # Sugar (Steven Leggett / Robotic Force)
+  # https://github.com/roboticforce/sugar
+  # ============================================================
+
+  - name: sugar
+    description: Autonomous AI Development Platform
+    repo: roboticforce/sugar
+    source_path: .claude-plugin
+    target_path: plugins/devops/sugar
+    author:
+      name: Steven Leggett
+      github: cdnsteve
+      email: contact@roboticforce.io
+    license: MIT
+    category: devops
+    verified: true
+    include:
+      - "plugin.json"
+      - "README.md"
+      - "PLUGIN_OVERVIEW.md"
+      - "commands/**"
+      - "agents/**"
+      - "hooks/**"
+      - "mcp-server/**"
+    exclude:
+      - "node_modules/**"
+      - ".git/**"
+      - "*.log"
+
+  # ============================================================
   # Add more external sources below
   # ============================================================
 
